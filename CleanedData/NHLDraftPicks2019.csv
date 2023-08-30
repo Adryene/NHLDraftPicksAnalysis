@@ -1,0 +1,218 @@
+Overall,Year,Player,Team,Round,Pick,Position,Country,Height,Height (Inches),Weight,Amateur League,Amateur Team
+1,2019,Jack Hughes,New Jersey Devils,1,1,C,USA,"5' 10""",70,171,NTDP,USA U-18
+2,2019,Kaapo Kakko,New York Rangers,1,2,RW,FIN,"6' 2""",74,194,FINLAND,TPS
+3,2019,Kirby Dach,Chicago Blackhawks,1,3,C,CAN,"6' 4""",76,198,WHL,Saskatoon
+4,2019,Bowen Byram,Colorado Avalanche,1,4,D,CAN,"6' 0""",72,195,WHL,Vancouver
+5,2019,Alex Turcotte,Los Angeles Kings,1,5,C,USA,"5' 11""",71,186,NTDP,USA U-18
+6,2019,Moritz Seider,Detroit Red Wings,1,6,D,DEU,"6' 3""",75,208,GERMANY,Mannheim
+7,2019,Dylan Cozens,Buffalo Sabres,1,7,C,CAN,"6' 3""",75,183,WHL,Lethbridge
+8,2019,Philip Broberg,Edmonton Oilers,1,8,D,SWE,"6' 3""",75,200,SWEDEN-2,AIK
+9,2019,Trevor Zegras,Anaheim Ducks,1,9,C,USA,"6' 0""",72,173,NTDP,USA U-18
+10,2019,Vasily Podkolzin,Vancouver Canucks,1,10,RW,RUS,"6' 0""",72,196,RUSSIA-2,Neva St. Petersburg
+11,2019,Victor Soderstrom,Arizona Coyotes,1,11,D,SWE,"6' 0""",72,182,SWEDEN,Brynas
+12,2019,Matt Boldy,Minnesota Wild,1,12,LW,USA,"6' 2""",74,196,NTDP,USA U-18
+13,2019,Spencer Knight,Florida Panthers,1,13,G,USA,"6' 3""",75,193,NTDP,USA U-18
+14,2019,Cam York,Philadelphia Flyers,1,14,D,USA,"5' 11""",71,172,NTDP,USA U-18
+15,2019,Cole Caufield,Montréal Canadiens,1,15,RW,USA,"5' 7""",67,163,NTDP,USA U-18
+16,2019,Alex Newhook,Colorado Avalanche,1,16,C,CAN,"5' 10""",70,192,BCHL,Victoria
+17,2019,Peyton Krebs,Vegas Golden Knights,1,17,C,CAN,"5' 11""",71,183,WHL,Kootenay
+18,2019,Thomas Harley,Dallas Stars,1,18,D,USA,"6' 3""",75,193,OHL,Mississauga
+19,2019,Lassi Thomson,Ottawa Senators,1,19,D,FIN,"6' 0""",72,186,WHL,Kelowna
+20,2019,Ville Heinola,Winnipeg Jets,1,20,D,FIN,"5' 11""",71,178,FINLAND,Lukko
+21,2019,Sam Poulin,Pittsburgh Penguins,1,21,RW,CAN,"6' 1""",73,212,QMJHL,Sherbrooke
+22,2019,Tobias Bjornfot,Los Angeles Kings,1,22,D,SWE,"6' 0""",72,193,SWEDEN-JR.,Djurgarden Jr.
+23,2019,Simon Holmstrom,New York Islanders,1,23,RW,SWE,"6' 0""",72,193,SWEDEN-JR.,HV 71 Jr.
+24,2019,Philip Tomasino,Nashville Predators,1,24,C,CAN,"5' 11""",71,183,OHL,Niagara
+25,2019,Connor McMichael,Washington Capitals,1,25,C,CAN,"5' 11""",71,182,OHL,London
+26,2019,Jakob Pelletier,Calgary Flames,1,26,LW,CAN,"5' 9""",69,165,QMJHL,Moncton
+27,2019,Nolan Foote,Tampa Bay Lightning,1,27,LW,USA,"6' 3""",75,195,WHL,Kelowna
+28,2019,Ryan Suzuki,Carolina Hurricanes,1,28,C,CAN,"6' 0""",72,180,OHL,Barrie
+29,2019,Brayden Tracey,Anaheim Ducks,1,29,LW,CAN,"6' 0""",72,170,WHL,Moose Jaw
+30,2019,John Beecher,Boston Bruins,1,30,C,USA,"6' 3""",75,212,NTDP,USA U-18
+31,2019,Ryan Johnson,Buffalo Sabres,1,31,D,USA,"6' 0""",72,170,USHL,Sioux Falls
+32,2019,Shane Pinto,Ottawa Senators,2,1,C,USA,"6' 2""",74,195,USHL,Tri-City
+33,2019,Arthur Kaliyev,Los Angeles Kings,2,2,RW,UZB,"6' 2""",74,194,OHL,Hamilton
+34,2019,Bobby Brink,Philadelphia Flyers,2,3,RW,USA,"5' 8""",68,165,USHL,Sioux City
+35,2019,Antti Tuomisto,Detroit Red Wings,2,4,D,FIN,"6' 4""",76,193,FINLAND-JR.,Assat Jr.
+36,2019,Pyotr Kochetkov,Carolina Hurricanes,2,5,G,RUS,"6' 3""",75,180,RUSSIA-2,Ryazan
+37,2019,Mads Sogaard,Ottawa Senators,2,6,G,DNK,"6' 7""",79,199,WHL,Medicine Hat
+38,2019,Raphael Lavoie,Edmonton Oilers,2,7,C,CAN,"6' 4""",76,199,QMJHL,Halifax
+39,2019,Jackson LaCombe,Anaheim Ducks,2,8,D,USA,"6' 1""",73,187,HIGH-MN,Shattuck-St. Mary's
+40,2019,Nils Hoglander,Vancouver Canucks,2,9,LW,SWE,"5' 9""",69,188,SWEDEN,Rogle
+41,2019,Kaedan Korczak,Vegas Golden Knights,2,10,D,CAN,"6' 3""",75,194,WHL,Kelowna
+42,2019,Vladislav Firstov,Minnesota Wild,2,11,LW,RUS,"6' 0""",72,181,USHL,Waterloo
+43,2019,Alex Vlasic,Chicago Blackhawks,2,12,D,USA,"6' 5""",77,198,NTDP,USA U-18
+44,2019,Jamieson Rees,Carolina Hurricanes,2,13,C,CAN,"5' 10""",70,182,OHL,Sarnia
+45,2019,Egor Afanasyev,Nashville Predators,2,14,LW,RUS,"6' 3""",75,204,USHL,Muskegon
+46,2019,Jayden Struble,Montréal Canadiens,2,15,D,USA,"6' 0""",72,205,HIGH-MA,St. Sebastian's School
+47,2019,Drew Helleson,Colorado Avalanche,2,16,D,USA,"6' 3""",75,194,NTDP,USA U-18
+48,2019,Artemi Kniazev,San Jose Sharks,2,17,D,RUS,"5' 10""",70,182,QMJHL,Chicoutimi
+49,2019,Matthew Robertson,New York Rangers,2,18,D,CAN,"6' 3""",75,200,WHL,Edmonton
+50,2019,Samuel Fagemo,Los Angeles Kings,2,19,LW,SWE,"6' 0""",72,190,SWEDEN,Frolunda
+51,2019,Simon Lundmark,Winnipeg Jets,2,20,D,SWE,"6' 1""",73,197,SWEDEN-JR.,Linkoping Jr.
+52,2019,Vladislav Kolyachonok,Florida Panthers,2,21,D,BLR,"6' 1""",73,189,OHL,Flint
+53,2019,Nicholas Robertson,Toronto Maple Leafs,2,22,LW,USA,"5' 8""",68,162,OHL,Peterborough
+54,2019,Robert Mastrosimone,Detroit Red Wings,2,23,LW,USA,"5' 10""",70,159,USHL,Chicago
+55,2019,Dillon Hamaliuk,San Jose Sharks,2,24,LW,CAN,"6' 2""",74,194,WHL,Seattle
+56,2019,Brett Leason,Washington Capitals,2,25,RW,CAN,"6' 4""",76,210,WHL,Prince Albert
+57,2019,Samuel Bolduc,New York Islanders,2,26,D,CAN,"6' 4""",76,209,QMJHL,Blainville-Boisbriand
+58,2019,Karl Henriksson,New York Rangers,2,27,C,SWE,"5' 9""",69,176,SWEDEN-JR.,Frolunda Jr.
+59,2019,Hunter Jones,Minnesota Wild,2,28,G,CAN,"6' 4""",76,202,OHL,Peterborough
+60,2019,Albert Johansson,Detroit Red Wings,2,29,D,SWE,"5' 11""",71,165,SWEDEN-JR.,Farjestad Jr.
+61,2019,Nikita Okhotiuk,New Jersey Devils,2,30,D,RUS,"6' 1""",73,198,OHL,Ottawa
+62,2019,Nikita Alexandrov,St. Louis Blues,2,31,C,DEU,"6' 0""",72,190,QMJHL,Charlottetown
+63,2019,Matt Stienburg,Colorado Avalanche,3,1,C,CAN,"6' 0""",72,182,HIGH-ON,St. Andrew's College
+64,2019,Mattias Norlinder,Montréal Canadiens,3,2,D,SWE,"6' 0""",72,187,SWEDEN-JR.,Modo Jr.
+65,2019,Alex Campbell,Nashville Predators,3,3,LW,CAN,"5' 10""",70,154,BCHL,Victoria
+66,2019,Albin Grewe,Detroit Red Wings,3,4,RW,SWE,"5' 11""",71,190,SWEDEN-JR.,Djurgarden Jr.
+67,2019,Erik Portillo,Buffalo Sabres,3,5,G,SWE,"6' 6""",78,207,SWEDEN-JR.,Frolunda Jr.
+68,2019,Zac Jones,New York Rangers,3,6,D,USA,"5' 10""",70,172,USHL,Tri-City
+69,2019,John Ludvig,Florida Panthers,3,7,D,CZE,"6' 0""",72,196,WHL,Portland
+70,2019,Daniil Misyul,New Jersey Devils,3,8,D,BLR,"6' 3""",75,176,RUSSIA-JR.,Yaroslavl 2
+71,2019,Hugo Alnefelt,Tampa Bay Lightning,3,9,G,SWE,"6' 2""",74,183,SWEDEN-JR.,HV 71 Jr.
+72,2019,Ronnie Attard,Philadelphia Flyers,3,10,D,USA,"6' 3""",75,205,USHL,Tri-City
+73,2019,Patrik Puistola,Carolina Hurricanes,3,11,RW,FIN,"6' 0""",72,175,FINLAND-JR.,Tappara Jr.
+74,2019,Nathan Legare,Pittsburgh Penguins,3,12,RW,CAN,"6' 0""",72,206,QMJHL,Baie Comeau
+75,2019,Adam Beckman,Minnesota Wild,3,13,LW,CAN,"6' 1""",73,168,WHL,Spokane
+76,2019,John Farinacci,Arizona Coyotes,3,14,C,USA,"5' 11""",71,190,HIGH-MA,Dexter School
+77,2019,Gianni Fairbrother,Montréal Canadiens,3,15,D,CAN,"5' 11""",71,194,WHL,Everett
+78,2019,Alex Beaucage,Colorado Avalanche,3,16,RW,CAN,"6' 1""",73,192,QMJHL,Rouyn-Noranda
+79,2019,Pavel Dorofeyev,Vegas Golden Knights,3,17,LW,RUS,"6' 0""",72,176,RUSSIA,Magnitogorsk
+80,2019,Graeme Clarke,New Jersey Devils,3,18,RW,USA,"5' 11""",71,175,OHL,Ottawa
+81,2019,Cole Schwindt,Florida Panthers,3,19,RW,CAN,"6' 2""",74,182,OHL,Mississauga
+82,2019,Michael Vukojevic,New Jersey Devils,3,20,D,CAN,"6' 3""",75,212,OHL,Kitchener
+83,2019,Anttoni Honka,Carolina Hurricanes,3,21,D,FIN,"5' 10""",70,178,FINLAND,Jukurit
+84,2019,Mikko Kokkonen,Toronto Maple Leafs,3,22,D,FIN,"5' 11""",71,200,FINLAND,Jukurit
+85,2019,Ilya Konovalov,Edmonton Oilers,3,23,G,RUS,"6' 0""",72,194,RUSSIA,Yaroslavl
+86,2019,Layton Ahac,Vegas Golden Knights,3,24,D,CAN,"6' 2""",74,190,BCHL,Prince George
+87,2019,Lukas Parik,Los Angeles Kings,3,25,G,CZE,"6' 3""",75,185,CZREP-JR.,Liberec Jr.
+88,2019,Ilya Nikolaev,Calgary Flames,3,26,C,RUS,"5' 11""",71,190,RUSSIA-JR.,Yaroslavl 2
+89,2019,Max Cajkovic,Tampa Bay Lightning,3,27,RW,SVK,"5' 10""",70,185,QMJHL,Saint John
+90,2019,Domenick Fensore,Carolina Hurricanes,3,28,D,USA,"5' 7""",67,153,NTDP,USA U-18
+91,2019,Aliaksei Protas,Washington Capitals,3,29,C,BLR,"6' 4""",76,205,WHL,Prince Albert
+92,2019,Quinn Olson,Boston Bruins,3,30,LW,CAN,"5' 10""",70,170,AJHL,Okotoks
+93,2019,Colten Ellis,St. Louis Blues,3,31,G,CAN,"6' 1""",73,188,QMJHL,Rimouski
+94,2019,Viktor Lodin,Ottawa Senators,4,1,C,SWE,"6' 2""",74,185,SWEDEN,Orebro
+95,2019,Jordan Spence,Los Angeles Kings,4,2,D,AUS,"5' 10""",70,177,QMJHL,Moncton
+96,2019,Tyce Thompson,New Jersey Devils,4,3,RW,CAN,"6' 1""",73,178,H-EAST,Providence
+97,2019,Ethan Phillips,Detroit Red Wings,4,4,C,CAN,"5' 9""",69,150,USHL,Sioux Falls
+98,2019,Matias Maccelli,Arizona Coyotes,4,5,LW,FIN,"5' 11""",71,165,USHL,Dubuque
+99,2019,Cade Webber,Carolina Hurricanes,4,6,D,USA,"6' 5""",77,205,HIGH-MA,Rivers Academy
+100,2019,Matej Blumel,Edmonton Oilers,4,7,RW,CZE,"5' 11""",71,198,USHL,Waterloo
+101,2019,Henry Thrun,Anaheim Ducks,4,8,D,USA,"6' 2""",74,188,NTDP,USA U-18
+102,2019,Aaron Huglen,Buffalo Sabres,4,9,RW,USA,"5' 11""",71,166,HIGH-MN,Roseau
+103,2019,Mason Millman,Philadelphia Flyers,4,10,D,CAN,"6' 0""",72,175,OHL,Saginaw
+104,2019,Eric Hjorth,Columbus Blue Jackets,4,11,D,SWE,"6' 3""",75,192,SWEDEN-JR.,Linkoping Jr.
+105,2019,Michal Teply,Chicago Blackhawks,4,12,LW,CZE,"6' 3""",75,187,CZREP-2,Benatky N. J.
+106,2019,Carter Berger,Florida Panthers,4,13,D,CAN,"6' 0""",72,200,BCHL,Victoria
+107,2019,Alexandr Darin,Arizona Coyotes,4,14,RW,RUS,"5' 11""",71,159,RUSSIA-JR.,Yaroslavl 2
+108,2019,Yegor Spiridonov,San Jose Sharks,4,15,C,RUS,"6' 2""",74,190,RUSSIA-JR.,Magnitogorsk 2
+109,2019,Marc Del Gaizo,Nashville Predators,4,16,D,USA,"5' 9""",69,188,H-EAST,U. Mass.
+110,2019,Ryder Donovan,Vegas Golden Knights,4,17,C,USA,"6' 3""",75,186,HIGH-MN,Duluth East H.S.
+111,2019,Samuel Sjolund,Dallas Stars,4,18,D,SWE,"6' 1""",73,172,SWEDEN-JR.,AIK Jr.
+112,2019,Hunter Skinner,New York Rangers,4,19,D,USA,"6' 2""",74,176,USHL,Lincoln
+113,2019,Henri Nikkanen,Winnipeg Jets,4,20,C,FIN,"6' 3""",75,200,FINLAND-JR.,Jukurit Jr.
+114,2019,Dmitri Voronkov,Columbus Blue Jackets,4,21,LW,RUS,"6' 4""",76,190,RUSSIA-2,Bars Kazan
+115,2019,Mikhail Abramov,Toronto Maple Leafs,4,22,C,RUS,"5' 10""",70,161,QMJHL,Victoriaville
+116,2019,Lucas Feuk,Calgary Flames,4,23,LW,SWE,"6' 0""",72,183,SWEDEN-JR.,Sodertalje Jr.
+117,2019,Semyon Chystyakov,Nashville Predators,4,24,D,RUS,"5' 10""",70,167,RUSSIA-JR.,Ufa 2
+118,2019,Case McCarthy,New Jersey Devils,4,25,D,USA,"6' 1""",73,198,NTDP,USA U-18
+119,2019,Kim Nousiainen,Los Angeles Kings,4,26,D,FIN,"5' 9""",69,170,FINLAND-JR.,Kalpa Jr.
+120,2019,Maxwell Crozier,Tampa Bay Lightning,4,27,D,CAN,"6' 1""",73,195,USHL,Sioux Falls
+121,2019,Tuukka Tieksola,Carolina Hurricanes,4,28,RW,FIN,"5' 9""",69,146,FINLAND-JR.,Karpat Jr.
+122,2019,Ethan Keppen,Vancouver Canucks,4,29,LW,CAN,"6' 1""",73,212,OHL,Flint
+123,2019,Antti Saarela,Chicago Blackhawks,4,30,C,FIN,"5' 11""",71,190,FINLAND,Lukko
+124,2019,Nick Abruzzese,Toronto Maple Leafs,4,31,C,USA,"5' 9""",69,160,USHL,Chicago
+125,2019,Mark Kastelic,Ottawa Senators,5,1,C,USA,"6' 3""",75,213,WHL,Calgary
+126,2019,Jacob Leguerrier,Montréal Canadiens,5,2,D,CAN,"6' 1""",73,200,OHL,Sault Ste. Marie
+127,2019,Cole Brady,New Jersey Devils,5,3,G,CAN,"6' 4""",76,175,NAHL,Janesville
+128,2019,Cooper Moore,Detroit Red Wings,5,4,D,USA,"6' 1""",73,175,HIGH-CT,Brunswick Prep
+129,2019,Arseny Gritsyuk,New Jersey Devils,5,5,RW,RUS,"5' 10""",70,169,RUSSIA-JR.,Omsk 2
+130,2019,Leevi Aaltonen,New York Rangers,5,6,RW,FIN,"5' 8""",68,177,FINLAND-JR.,Kalpa Jr.
+131,2019,Rhett Pitlick,Montréal Canadiens,5,7,LW,USA,"5' 8""",68,160,HIGH-MN,Chaska
+132,2019,Trevor Janicke,Anaheim Ducks,5,8,C,USA,"5' 10""",70,190,USHL,Central Illinois
+133,2019,Carson Focht,Vancouver Canucks,5,9,C,CAN,"6' 0""",72,178,WHL,Calgary
+134,2019,Harrison Blaisdell,Winnipeg Jets,5,10,C,GBR,"5' 11""",71,186,BCHL,Chilliwack
+135,2019,Isaiah Saville,Vegas Golden Knights,5,11,G,USA,"6' 1""",73,198,USHL,Tri-City
+136,2019,Henrik Rybinski,Florida Panthers,5,12,RW,CAN,"6' 0""",72,176,WHL,Seattle
+137,2019,Owen Lindmark,Florida Panthers,5,13,C,USA,"6' 0""",72,193,NTDP,USA U-18
+138,2019,Frederik Dichow,Montréal Canadiens,5,14,G,DNK,"6' 5""",77,191,DENMARK-2,Vojens
+139,2019,Marcus Kallionkieli,Vegas Golden Knights,5,15,LW,FIN,"6' 2""",74,195,USHL,Sioux City
+140,2019,Sasha Mutala,Colorado Avalanche,5,16,RW,CAN,"6' 0""",72,200,WHL,Tri-City
+141,2019,Mason Primeau,Vegas Golden Knights,5,17,C,CAN,"6' 5""",77,205,OHL,North Bay
+142,2019,Nicholas Porco,Dallas Stars,5,18,LW,CAN,"5' 11""",71,177,OHL,Saginaw
+143,2019,Filip Cederqvist,Buffalo Sabres,5,19,LW,SWE,"6' 1""",73,187,SWEDEN,Vaxjo
+144,2019,Logan Neaton,Winnipeg Jets,5,20,G,USA,"6' 3""",75,190,BCHL,Prince George
+145,2019,Judd Caulfield,Pittsburgh Penguins,5,21,RW,USA,"6' 3""",75,205,NTDP,USA U-18
+146,2019,Michael Koster,Toronto Maple Leafs,5,22,D,USA,"5' 8""",68,172,HIGH-MN,Chaska
+147,2019,Reece Newkirk,New York Islanders,5,23,C,CAN,"5' 10""",70,172,WHL,Portland
+148,2019,Ethan Haider,Nashville Predators,5,24,G,USA,"6' 2""",74,200,NAHL,MN Magicians
+149,2019,Matvey Guskov,Minnesota Wild,5,25,C,RUS,"6' 1""",73,182,OHL,London
+150,2019,Joshua Nodler,Calgary Flames,5,26,C,USA,"5' 11""",71,194,USHL,Fargo
+151,2019,Aku Raty,Arizona Coyotes,5,27,RW,FIN,"5' 11""",71,170,FINLAND-JR.,Karpat Jr.
+152,2019,Kirill Slepets,Carolina Hurricanes,5,28,RW,RUS,"5' 10""",70,165,RUSSIA-JR.,Yaroslavl 2
+153,2019,Martin Has,Washington Capitals,5,29,D,CZE,"6' 4""",76,192,FINLAND-JR.,Tappara Jr.
+154,2019,Roman Bychkov,Boston Bruins,5,30,D,RUS,"5' 11""",71,170,RUSSIA-JR.,Yaroslavl 2
+155,2019,Keean Washkurak,St. Louis Blues,5,31,C,CAN,"5' 10""",70,184,OHL,Mississauga
+156,2019,Arturs Silovs,Vancouver Canucks,6,1,G,LVA,"6' 4""",76,203,RUSSIA-JR.,Riga 2
+157,2019,Braden Doyle,Los Angeles Kings,6,2,D,USA,"5' 11""",71,162,HIGH-MA,Lawrence Academy
+158,2019,Patrick Moynihan,New Jersey Devils,6,3,RW,USA,"5' 11""",71,183,NTDP,USA U-18
+159,2019,Elmer Soderblom,Detroit Red Wings,6,4,RW,SWE,"6' 6""",78,219,SWEDEN-JR.,Frolunda Jr.
+160,2019,Lukas Rousek,Buffalo Sabres,6,5,RW,CZE,"5' 11""",71,165,CZREP,Sparta
+161,2019,Adam Edstrom,New York Rangers,6,6,C,SWE,"6' 6""",78,209,SWEDEN-JR.,Mora Jr.
+162,2019,Tomas Mazura,Edmonton Oilers,6,7,C,CZE,"6' 2""",74,170,HIGH-NH,Kimball Union Academy
+163,2019,William Francis,Anaheim Ducks,6,8,D,USA,"6' 4""",76,207,USHL,Cedar Rapids
+164,2019,Timur Ibragimov,San Jose Sharks,6,9,LW,RUS,"6' 1""",73,183,RUSSIA-JR.,SKA St. Petersburg 2
+165,2019,Egor Serdyuk,Philadelphia Flyers,6,10,RW,RUS,"5' 10""",70,158,QMJHL,Victoriaville
+166,2019,Marshall Warren,Minnesota Wild,6,11,D,USA,"5' 11""",71,170,NTDP,USA U-18
+167,2019,Dominic Basse,Chicago Blackhawks,6,12,G,USA,"6' 5""",77,179,HIGH-CT,Selects U18 - South Kent School
+168,2019,Greg Meireles,Florida Panthers,6,13,C,CAN,"5' 9""",69,186,OHL,Kitchener
+169,2019,Roddy Ross,Philadelphia Flyers,6,14,G,CAN,"6' 2""",74,180,WHL,Seattle
+170,2019,Arsen Khisamutdinov,Montréal Canadiens,6,15,C,RUS,"6' 3""",75,205,RUSSIA-JR.,Nizhnekamsk 2
+171,2019,Luka Burzan,Colorado Avalanche,6,16,RW,CAN,"6' 0""",72,184,WHL,Brandon
+172,2019,Nikita Nesterenko,Minnesota Wild,6,17,C,USA,"6' 0""",72,157,HIGH-NJ,Lawrenceville
+173,2019,Benjamin Brinkman,Dallas Stars,6,18,D,USA,"6' 0""",72,215,BIG10,Minnesota
+174,2019,Danil Savunov,Arizona Coyotes,6,19,LW,RUS,"5' 10""",70,147,RUSSIA-2,Penza
+175,2019,Karel Plasek,Vancouver Canucks,6,20,RW,CZE,"5' 11""",71,154,CZREP,Brno
+176,2019,Anthony Romano,Arizona Coyotes,6,21,C,CAN,"5' 10""",70,182,USHL,Sioux Falls
+177,2019,Gustav Berglund,Detroit Red Wings,6,22,D,SWE,"6' 2""",74,194,SWE-JR. U18,Frolunda U18
+178,2019,Felix Bibeau,New York Islanders,6,23,C,CAN,"5' 11""",71,186,QMJHL,Rouyn-Noranda
+179,2019,Isak Walther,Nashville Predators,6,24,RW,SWE,"6' 3""",75,170,SWE-JR. U18,Sodertalje U18
+180,2019,Jack Malone,Vancouver Canucks,6,25,RW,USA,"6' 0""",72,191,USHL,Youngstown
+181,2019,Kevin Wall,Carolina Hurricanes,6,26,RW,USA,"6' 0""",72,188,BCHL,Chilliwack
+182,2019,Quinn Schmiemann,Tampa Bay Lightning,6,27,D,CAN,"6' 1""",73,185,WHL,Kamloops
+183,2019,Blake Murray,Carolina Hurricanes,6,28,C,CAN,"6' 1""",73,187,OHL,Sudbury
+184,2019,Santeri Hatakka,San Jose Sharks,6,29,D,FIN,"6' 0""",72,174,FINLAND-JR.,Jokerit Jr.
+185,2019,Matias Mantykivi,Boston Bruins,6,30,C,FIN,"5' 11""",71,161,FINLAND-JR.,Saipa Jr.
+186,2019,Mathew Hill,Anaheim Ducks,6,31,D,CAN,"6' 4""",76,197,OHL,Barrie
+187,2019,Maxence Guenette,Ottawa Senators,7,1,D,CAN,"6' 1""",73,181,QMJHL,Val d'Or
+188,2019,Andre Lee,Los Angeles Kings,7,2,LW,SWE,"6' 4""",76,206,USHL,Sioux Falls
+189,2019,Nikola Pasic,New Jersey Devils,7,3,RW,SWE,"5' 10""",70,187,SWEDEN-JR.,Linkoping Jr.
+190,2019,Kirill Tyutyayev,Detroit Red Wings,7,4,LW,RUS,"5' 9""",69,146,RUSSIA-JR.,Yekaterinburg 2
+191,2019,Carter Gylander,Detroit Red Wings,7,5,G,CAN,"6' 5""",77,171,AJHL,Sherwood Park
+192,2019,Jake Schmaltz,Boston Bruins,7,6,LW,USA,"6' 0""",72,167,USHL,Chicago
+193,2019,Maxim Denezhkin,Edmonton Oilers,7,7,C,RUS,"5' 10""",70,165,RUSSIA-JR.,Yaroslavl 2
+194,2019,Cole Moberg,Chicago Blackhawks,7,8,D,CAN,"6' 2""",74,187,WHL,Prince George
+195,2019,Aidan McDonough,Vancouver Canucks,7,9,LW,USA,"6' 3""",75,190,USHL,Cedar Rapids
+196,2019,Bryce Brodzinski,Philadelphia Flyers,7,10,RW,USA,"5' 11""",71,197,HIGH-MN,Blaine
+197,2019,Filip Lindberg,Minnesota Wild,7,11,G,FIN,"6' 0""",72,180,H-EAST,U. Mass.
+198,2019,Mikhail Shalagin,Tampa Bay Lightning,7,12,LW,RUS,"6' 4""",76,185,RUSSIA-JR.,Spartak 2
+199,2019,Matthew Wedman,Florida Panthers,7,13,C,CAN,"6' 2""",74,197,WHL,Seattle
+200,2019,Axel Bergkvist,Arizona Coyotes,7,14,D,SWE,"5' 9""",69,200,SWEDEN-JR.,Leksand Jr.
+201,2019,Rafael Harvey-Pinard,Montréal Canadiens,7,15,LW,CAN,"5' 8""",68,166,QMJHL,Rouyn-Noranda
+202,2019,Trent Miner,Colorado Avalanche,7,16,G,CAN,"6' 1""",73,187,WHL,Vancouver
+203,2019,Valtteri Puustinen,Pittsburgh Penguins,7,17,RW,FIN,"5' 9""",69,183,FINLAND,HPK
+204,2019,Kalle Loponen,Toronto Maple Leafs,7,18,D,FIN,"5' 9""",69,186,FINLAND-2,Hermes
+205,2019,Eric Ciccolini,New York Rangers,7,19,RW,CAN,"5' 10""",70,160,OJHL,Toronto JC
+206,2019,Kieran Ruscheinski,Montréal Canadiens,7,20,D,CAN,"6' 6""",78,201,AMHL,Calgary North Stars
+207,2019,Valentin Nussbaumer,Arizona Coyotes,7,21,C,CHE,"5' 10""",70,165,QMJHL,Shawinigan
+208,2019,Vadim Zherenko,St. Louis Blues,7,22,G,RUS,"6' 1""",73,176,RUSSIA-JR.,Dynamo Moscow 2
+209,2019,Cole Coskey,New York Islanders,7,23,RW,USA,"6' 0""",72,198,OHL,Saginaw
+210,2019,Juuso Parssinen,Nashville Predators,7,24,C,FIN,"6' 2""",74,203,FINLAND-JR.,TPS Jr.
+211,2019,Santeri Airola,Pittsburgh Penguins,7,25,D,FIN,"5' 11""",71,163,FINLAND-JR.,Saipa Jr.
+212,2019,Tyler Angle,Columbus Blue Jackets,7,26,C,CAN,"5' 9""",69,167,OHL,Windsor
+213,2019,McKade Webster,Tampa Bay Lightning,7,27,LW,USA,"5' 10""",70,167,USHL,Green Bay
+214,2019,Dustin Wolf,Calgary Flames,7,28,G,USA,"5' 11""",71,156,WHL,Everett
+215,2019,Arvid Costmar,Vancouver Canucks,7,29,C,SWE,"5' 10""",70,180,SWEDEN-JR.,Linkoping Jr.
+216,2019,Massimo Rizzo,Carolina Hurricanes,7,30,C,CAN,"5' 10""",70,175,BCHL,Penticton
+217,2019,Jeremy Michel,St. Louis Blues,7,31,LW,CAN,"6' 0""",72,165,QMJHL,Val d'Or

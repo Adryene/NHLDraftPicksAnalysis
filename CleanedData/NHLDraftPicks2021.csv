@@ -1,0 +1,225 @@
+Overall,Year,Player,Team,Round,Pick,Position,Country,Height,Height (Inches),Weight,Amateur League,Amateur Team
+1,2021,Owen Power,Buffalo Sabres,1,1,D,CAN,"6' 6""",78,213,BIG10,Michigan
+2,2021,Matty Beniers,Seattle Kraken,1,2,C,USA,"6' 1""",73,175,BIG10,Michigan
+3,2021,Mason McTavish,Anaheim Ducks,1,3,C,CHE,"6' 1""",73,207,OHL,Peterborough
+4,2021,Luke Hughes,New Jersey Devils,1,4,D,USA,"6' 2""",74,184,NTDP,USA U-18
+5,2021,Kent Johnson,Columbus Blue Jackets,1,5,C,CAN,"6' 1""",73,167,BIG10,Michigan
+6,2021,Simon Edvinsson,Detroit Red Wings,1,6,D,SWE,"6' 4""",76,198,SWEDEN-JR.,Frolunda Jr.
+7,2021,William Eklund,San Jose Sharks,1,7,LW,SWE,"5' 9""",69,176,SWEDEN,Djurgarden
+8,2021,Brandt Clarke,Los Angeles Kings,1,8,D,CAN,"6' 2""",74,185,OHL,Barrie
+9,2021,Dylan Guenther,Arizona Coyotes,1,9,RW,CAN,"6' 1""",73,175,WHL,Edmonton
+10,2021,Tyler Boucher,Ottawa Senators,1,10,RW,USA,"6' 1""",73,205,NTDP,USA U-18
+11,2021,Void,Arizona Coyotes,1,11,N/A,N/A,,#VALUE!,,N/A,
+12,2021,Cole Sillinger,Columbus Blue Jackets,1,12,C,USA,"6' 0""",72,197,USHL,Sioux Falls
+13,2021,Matt Coronato,Calgary Flames,1,13,RW,USA,"5' 10""",70,183,USHL,Chicago
+14,2021,Isak Rosen,Buffalo Sabres,1,14,RW,SWE,"5' 11""",71,156,SWEDEN,Leksand
+15,2021,Sebastian Cossa,Detroit Red Wings,1,15,G,CAN,"6' 6""",78,210,WHL,Edmonton
+16,2021,Brennan Othmann,New York Rangers,1,16,LW,CAN,"6' 0""",72,175,OHL,Flint
+17,2021,Zachary Bolduc,St. Louis Blues,1,17,C,CAN,"6' 1""",73,175,QMJHL,Rimouski
+18,2021,Chaz Lucius,Winnipeg Jets,1,18,C,USA,"6' 1""",73,185,NTDP,USA U-18
+19,2021,Fedor Svechkov,Nashville Predators,1,19,C,RUS,"6' 0""",72,187,RUSSIA-2,Togliatti
+20,2021,Jesper Wallstedt,Minnesota Wild,1,20,G,SWE,"6' 3""",75,214,SWEDEN,Lulea
+21,2021,Fabian Lysell,Boston Bruins,1,21,RW,SWE,"5' 10""",70,172,SWEDEN,Lulea
+22,2021,Xavier Bourgault,Edmonton Oilers,1,22,C,CAN,"6' 0""",72,172,QMJHL,Shawinigan
+23,2021,Wyatt Johnston,Dallas Stars,1,23,C,CAN,"6' 1""",73,178,OHL,Windsor
+24,2021,Mackie Samoskevich,Florida Panthers,1,24,RW,USA,"5' 10""",70,191,USHL,Chicago
+25,2021,Corson Ceulemans,Columbus Blue Jackets,1,25,D,CAN,"6' 2""",74,198,AJHL,Brooks
+26,2021,Carson Lambos,Minnesota Wild,1,26,D,CAN,"6' 1""",73,197,WHL,Winnipeg
+27,2021,Zachary L'Heureux,Nashville Predators,1,27,LW,CAN,"5' 11""",71,196,QMJHL,Halifax
+28,2021,Oskar Olausson,Colorado Avalanche,1,28,RW,SWE,"6' 1""",73,180,SWEDEN,HV 71
+29,2021,Chase Stillman,New Jersey Devils,1,29,RW,USA,"6' 1""",73,180,OHL,Sudbury
+30,2021,Zach Dean,Vegas Golden Knights,1,30,C,CAN,"6' 0""",72,176,QMJHL,Gatineau
+31,2021,Logan Mailloux,Montréal Canadiens,1,31,D,CAN,"6' 3""",75,212,GOJHL,London
+32,2021,Nolan Allan,Chicago Blackhawks,1,32,D,CAN,"6' 2""",74,195,WHL,Prince Albert
+33,2021,Prokhor Poltapov,Buffalo Sabres,2,1,LW,RUS,"6' 0""",72,176,RUSSIA-JR.,CSKA 2
+34,2021,Olen Zellweger,Anaheim Ducks,2,2,D,CAN,"5' 9""",69,175,WHL,Everett
+35,2021,Ryker Evans,Seattle Kraken,2,3,D,CAN,"5' 11""",71,189,WHL,Regina
+36,2021,Shai Buium,Detroit Red Wings,2,4,D,USA,"6' 3""",75,209,USHL,Sioux City
+37,2021,Josh Doan,Arizona Coyotes,2,5,RW,USA,"6' 1""",73,183,USHL,Chicago
+38,2021,Daniil Chayka,Vegas Golden Knights,2,6,D,RUS,"6' 2""",74,187,RUSSIA,CSKA
+39,2021,Zack Ostapchuk,Ottawa Senators,2,7,C,CAN,"6' 3""",75,205,WHL,Vancouver
+40,2021,Scott Morrow,Carolina Hurricanes,2,8,D,USA,"6' 2""",74,195,HIGH-MN,Shattuck-St. Mary's
+41,2021,Danila Klimovich,Vancouver Canucks,2,9,RW,BLR,"6' 1""",73,202,BELARUS-2,Minsk Zubry
+42,2021,Francesco Pinelli,Los Angeles Kings,2,10,C,CAN,"6' 0""",72,185,OHL,Kitchener
+43,2021,Ilya Fedotov,Arizona Coyotes,2,11,LW,RUS,"6' 1""",73,176,RUSSIA-JR.,Nizhny Novgorod 2
+44,2021,Aleksi Heimosalmi,Carolina Hurricanes,2,12,D,FIN,"5' 11""",71,170,FINLAND-JR.,Assat Jr.
+45,2021,William Stromgren,Calgary Flames,2,13,LW,SWE,"6' 3""",75,175,SWEDEN-2,Modo
+46,2021,Samu Tuomaala,Philadelphia Flyers,2,14,RW,FIN,"5' 10""",70,174,FINLAND-JR.,Karpat Jr.
+47,2021,Logan Stankoven,Dallas Stars,2,15,C,CAN,"5' 8""",68,170,WHL,Kamloops
+48,2021,Artem Grushnikov,Dallas Stars,2,16,D,RUS,"6' 2""",74,198,RUSSIA-JR.,CSKA 2
+49,2021,Ben Roger,Ottawa Senators,2,17,D,CAN,"6' 4""",76,200,OHL,London
+50,2021,Nikita Chibrikov,Winnipeg Jets,2,18,RW,RUS,"5' 10""",70,170,RUSSIA,St. Petersburg
+51,2021,Ville Koivunen,Carolina Hurricanes,2,19,RW,FIN,"5' 11""",71,161,FINLAND-JR.,Karpat Jr.
+52,2021,Aatu Raty,New York Islanders,2,20,C,FIN,"6' 2""",74,185,FINLAND,Karpat
+53,2021,Aleksandr Kisakov,Buffalo Sabres,2,21,LW,RUS,"5' 10""",70,150,RUSSIA-JR.,Dynamo Moscow 2
+54,2021,Jack Peart,Minnesota Wild,2,22,D,USA,"5' 11""",71,186,HIGH-MN,Grand Rapids
+55,2021,Vincent Iorio,Washington Capitals,2,23,D,CAN,"6' 2""",74,191,WHL,Brandon
+56,2021,Evan Nause,Florida Panthers,2,24,D,CAN,"6' 2""",74,186,QMJHL,Quebec
+57,2021,Matthew Knies,Toronto Maple Leafs,2,25,LW,USA,"6' 2""",74,210,USHL,Tri-City
+58,2021,Tristan Broz,Pittsburgh Penguins,2,26,C,USA,"5' 11""",71,178,USHL,Fargo
+59,2021,Samuel Helenius,Los Angeles Kings,2,27,C,USA,"6' 6""",78,201,FINLAND,JYP
+60,2021,J.J. Moser,Arizona Coyotes,2,28,D,CHE,"6' 0""",72,172,SWISS,Biel
+61,2021,Sean Behrens,Colorado Avalanche,2,29,D,USA,"5' 9""",69,177,NTDP,USA U-18
+62,2021,Colton Dach,Chicago Blackhawks,2,30,C,CAN,"6' 4""",76,196,WHL,Saskatoon
+63,2021,Riley Kidney,Montréal Canadiens,2,31,C,CAN,"5' 11""",71,168,QMJHL,Acadie-Bathurst
+64,2021,Oliver Kapanen,Montréal Canadiens,2,32,C,SWE,"5' 11""",71,166,FINLAND-JR.,Kalpa Jr.
+65,2021,Jayden Grubbe,New York Rangers,3,1,C,CAN,"6' 2""",74,200,WHL,Red Deer
+66,2021,Sasha Pastujov,Anaheim Ducks,3,2,RW,USA,"6' 0""",72,184,NTDP,USA U-18
+67,2021,Ryan Winterton,Seattle Kraken,3,3,C,CAN,"6' 2""",74,175,OHL,Hamilton
+68,2021,Samu Salminen,New Jersey Devils,3,4,C,FIN,"6' 2""",74,186,FINLAND-JR.,Jokerit Jr.
+69,2021,Stanislav Svozil,Columbus Blue Jackets,3,5,D,CZE,"6' 1""",73,182,CZREP,Brno
+70,2021,Carter Mazur,Detroit Red Wings,3,6,LW,USA,"6' 0""",72,170,USHL,Tri-City
+71,2021,Simon Robertsson,St. Louis Blues,3,7,RW,SWE,"6' 0""",72,190,SWEDEN,Skelleftea
+72,2021,Anton Olsson,Nashville Predators,3,8,D,SWE,"6' 0""",72,198,SWEDEN,Malmo
+73,2021,Ayrton Martino,Dallas Stars,3,9,LW,CAN,"5' 11""",71,160,USHL,Omaha
+74,2021,Oliver Johansson,Ottawa Senators,3,10,LW,SWE,"6' 0""",72,183,SWEDEN-2,Timra
+75,2021,Ryder Korczak,New York Rangers,3,11,C,CAN,"5' 11""",71,174,WHL,Moose Jaw
+76,2021,Tyson Hinds,Anaheim Ducks,3,12,D,CAN,"6' 3""",75,178,QMJHL,Rimouski
+77,2021,Cole Huckins,Calgary Flames,3,13,C,CAN,"6' 3""",75,200,QMJHL,Acadie-Bathurst
+78,2021,Aleksei Kolosov,Philadelphia Flyers,3,14,G,BLR,"6' 1""",73,185,RUSSIA,Minsk
+79,2021,Justin Ertel,Dallas Stars,3,15,LW,CAN,"6' 2""",74,187,MHL,Summerside
+80,2021,Brent Johnson,Washington Capitals,3,16,D,USA,"5' 11""",71,161,USHL,Sioux Falls
+81,2021,Benjamin Gaudreau,San Jose Sharks,3,17,G,CAN,"6' 2""",74,175,OHL,Sarnia
+82,2021,Dmitry Kuzmin,Winnipeg Jets,3,18,D,BLR,"5' 9""",69,178,BELARUS,Molodechno
+83,2021,Patrik Hamrla,Carolina Hurricanes,3,19,G,CZE,"6' 3""",75,194,CZREP,Karlovy Vary
+84,2021,Kirill Kirsanov,Los Angeles Kings,3,20,D,RUS,"6' 1""",73,198,RUSSIA,St. Petersburg
+85,2021,Brett Harrison,Boston Bruins,3,21,C,CAN,"6' 2""",74,188,OHL,Oshawa
+86,2021,Caedan Bankier,Minnesota Wild,3,22,C,CAN,"6' 2""",74,190,WHL,Kamloops
+87,2021,Dmitri Kostenko,Montréal Canadiens,3,23,D,RUS,"6' 1""",73,187,RUSSIA-2,Togliatti
+88,2021,Stiven Sardarian,Buffalo Sabres,3,24,RW,RUS,"6' 1""",73,156,RUSSIA-JR.,CSKA 2
+89,2021,Cameron Whynot,Calgary Flames,3,25,D,CAN,"6' 1""",73,180,QMJHL,Halifax
+90,2021,Luca Munzenberger,Edmonton Oilers,3,26,D,DEU,"6' 2""",74,190,GERMANY-JR.,Koln Jr.
+91,2021,Taige Harding,Chicago Blackhawks,3,27,D,GBR,"6' 6""",78,235,AJHL,Fort McMurray
+92,2021,Andrei Buyalsky,Colorado Avalanche,3,28,C,KAZ,"6' 3""",75,178,USHL,Dubuque
+93,2021,Tristan Lennox,New York Islanders,3,29,G,CAN,"6' 4""",76,190,OHL,Saginaw
+94,2021,Aidan Hreschuk,Carolina Hurricanes,3,30,D,USA,"5' 11""",71,188,NTDP,USA U-18
+95,2021,Josh Bloom,Buffalo Sabres,3,31,LW,CAN,"6' 2""",74,182,OHL,Saginaw
+96,2021,Roman Schmidt,Tampa Bay Lightning,3,32,D,USA,"6' 4""",76,210,NTDP,USA U-18
+97,2021,Olivier Nadeau,Buffalo Sabres,4,1,RW,CAN,"6' 2""",74,204,QMJHL,Shawinigan
+98,2021,Josh Lopina,Anaheim Ducks,4,2,C,USA,"6' 2""",74,195,H-EAST,U. Mass.
+99,2021,Ville Ottavainen,Seattle Kraken,4,3,D,FIN,"6' 5""",77,210,FINLAND,JYP
+100,2021,Jakub Malek,New Jersey Devils,4,4,G,CZE,"6' 4""",76,170,CZREP-2,Vsetin
+101,2021,Guillaume Richard,Columbus Blue Jackets,4,5,D,CAN,"6' 2""",74,170,USHL,Tri-City
+102,2021,Jakub Brabenec,Vegas Golden Knights,4,6,C,CZE,"6' 1""",73,174,CZREP,Brno
+103,2021,Gannon Laroque,San Jose Sharks,4,7,D,CAN,"6' 2""",74,200,WHL,Victoria
+104,2021,Brody Lamb,New York Rangers,4,8,RW,USA,"6' 1""",73,165,HIGH-MN,Dodge County
+105,2021,Ethan Del Mastro,Chicago Blackhawks,4,9,D,CAN,"6' 4""",76,210,OHL,Mississauga
+106,2021,Kalle Vaisanen,New York Rangers,4,10,LW,FIN,"6' 4""",76,178,FINLAND-JR.,TPS Jr.
+107,2021,Emil Martinsen Lilleberg,Arizona Coyotes,4,11,D,NOR,"6' 2""",74,192,NORWAY,Sarpsborg
+108,2021,Victor Stjernborg,Chicago Blackhawks,4,12,C,SWE,"5' 10""",70,202,SWEDEN,Vaxjo
+109,2021,Jackson Blake,Carolina Hurricanes,4,13,RW,USA,"5' 10""",70,158,HIGH-MN,Eden Prarie
+110,2021,Brian Zanetti,Philadelphia Flyers,4,14,D,CHE,"6' 2""",74,181,SWISS-JR.,Lugano Jr.
+111,2021,Conner Roulette,Dallas Stars,4,15,LW,CAN,"5' 11""",71,180,WHL,Seattle
+112,2021,Talyn Boyko,New York Rangers,4,16,G,CAN,"6' 7""",79,196,WHL,Tri-City
+113,2021,William Trudeau,Montréal Canadiens,4,17,D,CAN,"6' 0""",72,189,QMJHL,Charlottetown
+114,2021,Redmond Savage,Detroit Red Wings,4,18,C,USA,"5' 11""",71,180,NTDP,USA U-18
+115,2021,Ryan Ufko,Nashville Predators,4,19,D,USA,"5' 9""",69,181,USHL,Chicago
+116,2021,Jake Chiasson,Edmonton Oilers,4,20,C,CAN,"6' 1""",73,165,WHL,Brandon
+117,2021,Philip Svedeback,Boston Bruins,4,21,G,SWE,"6' 3""",75,191,SWEDEN-JR.,Vaxjo Jr.
+118,2021,Kyle Masters,Minnesota Wild,4,22,D,CAN,"6' 1""",73,175,WHL,Red Deer
+119,2021,Joaquim Lemay,Washington Capitals,4,23,D,CAN,"6' 1""",73,178,BCHL,Salmon Arm
+120,2021,Vladislav Lukashevich,Florida Panthers,4,24,D,RUS,"6' 2""",74,167,RUSSIA-JR.,Yaroslavl 2
+121,2021,Ethan Cardwell,San Jose Sharks,4,25,RW,CAN,"5' 11""",71,193,OHL,Barrie
+122,2021,Rasmus Korhonen,Arizona Coyotes,4,26,G,FIN,"6' 5""",77,194,FINLAND-JR.,Assat Jr.
+123,2021,Carson Latimer,Ottawa Senators,4,27,RW,CAN,"6' 1""",73,181,WHL,Edmonton
+124,2021,Jack Matier,Nashville Predators,4,28,D,CAN,"6' 4""",76,200,OHL,Ottawa
+125,2021,Cameron Berg,New York Islanders,4,29,C,USA,"5' 11""",71,192,USHL,Muskegon
+126,2021,Dylan Duke,Tampa Bay Lightning,4,30,LW,USA,"5' 10""",70,175,NTDP,USA U-18
+127,2021,Josh Pillar,Minnesota Wild,4,31,RW,CAN,"5' 11""",71,178,WHL,Kamloops
+128,2021,Jakub Demek,Vegas Golden Knights,4,32,C,SVK,"6' 4""",76,196,SLOVAKIA-2,Slovakia U18 (SVK-2)
+129,2021,Topias Vilen,New Jersey Devils,5,1,D,FIN,"6' 1""",73,194,FINLAND,Pelicans
+130,2021,Sean Tschigerl,Anaheim Ducks,5,2,LW,CAN,"6' 0""",72,189,WHL,Calgary
+131,2021,Jacob Melanson,Seattle Kraken,5,3,RW,CAN,"5' 11""",71,190,QMJHL,Acadie-Bathurst
+132,2021,Nikolai Makarov,Columbus Blue Jackets,5,4,D,RUS,"6' 1""",73,190,RUSSIA-JR.,CSKA 2
+133,2021,James Malatesta,Columbus Blue Jackets,5,5,LW,CAN,"5' 9""",69,179,QMJHL,Quebec
+134,2021,Liam Dower Nilsson,Detroit Red Wings,5,6,C,SWE,"5' 11""",71,172,SWEDEN-JR.,Frolunda Jr.
+135,2021,Artem Guryev,San Jose Sharks,5,7,D,RUS,"6' 4""",76,225,OJHL,Lindsay
+136,2021,Robert Orr,Carolina Hurricanes,5,8,RW,CAN,"5' 11""",71,176,QMJHL,Halifax
+137,2021,Aku Koskenvuo,Vancouver Canucks,5,9,G,FIN,"6' 3""",75,173,FINLAND-JR.,HIFK Jr.
+138,2021,Jack Bar,Dallas Stars,5,10,D,CAN,"6' 2""",74,193,USHL,Chicago
+139,2021,Manix Landry,Arizona Coyotes,5,11,C,USA,"5' 11""",71,178,QMJHL,Gatineau
+140,2021,Jonathan Myrenberg,Vancouver Canucks,5,12,D,SWE,"6' 1""",73,185,SWEDEN-JR.,Linkoping Jr.
+141,2021,Cole Jordan,Calgary Flames,5,13,D,CAN,"6' 2""",74,200,WHL,Moose Jaw
+142,2021,Daniil Sobolev,Montréal Canadiens,5,14,D,RUS,"6' 0""",72,210,RUSSIA-JR.,Spartak 2
+143,2021,Jacob Holmes,Dallas Stars,5,15,D,CAN,"6' 1""",73,205,OHL,Sault Ste. Marie
+144,2021,Jaroslav Chmelar,New York Rangers,5,16,RW,CZE,"6' 4""",76,198,FIN-JR. U18,Jokerit U18
+145,2021,Tyson Galloway,St. Louis Blues,5,17,D,CAN,"6' 3""",75,220,WHL,Calgary
+146,2021,Dmitri Rashevsky,Winnipeg Jets,5,18,RW,RUS,"6' 1""",73,165,RUSSIA-2,Krasnogorsk
+147,2021,Justin Robidas,Carolina Hurricanes,5,19,C,USA,"5' 8""",68,173,QMJHL,Val d'Or
+148,2021,Gage Alexander,Anaheim Ducks,5,20,G,CAN,"6' 6""",78,205,WHL,Winnipeg
+149,2021,Oskar Jellvik,Boston Bruins,5,21,LW,SWE,"5' 11""",71,175,SWEDEN-JR.,Djurgarden Jr.
+150,2021,Joshua Roy,Montréal Canadiens,5,22,RW,CAN,"6' 0""",72,190,QMJHL,Sherbrooke
+151,2021,Haakon Hanelt,Washington Capitals,5,23,C,DEU,"5' 11""",71,194,GERMANY,Eisbaren Berlin
+152,2021,Kirill Gerasimyuk,Florida Panthers,5,24,G,RUS,"6' 2""",74,178,RUSSIA-JR.,SKA-Varyagi
+153,2021,Ty Voit,Toronto Maple Leafs,5,25,LW,USA,"5' 10""",70,161,OHL,Sarnia
+154,2021,Isaac Belliveau,Pittsburgh Penguins,5,26,D,CAN,"6' 2""",74,185,QMJHL,Gatineau
+155,2021,Oscar Plandowski,Detroit Red Wings,5,27,D,CAN,"6' 0""",72,190,QMJHL,Charlottetown
+156,2021,Max McCue,San Jose Sharks,5,28,C,CAN,"6' 1""",73,175,OHL,London
+157,2021,Eetu Liukas,New York Islanders,5,29,LW,FIN,"6' 2""",74,198,FINLAND,TPS
+158,2021,Ty Murchison,Philadelphia Flyers,5,30,D,USA,"6' 1""",73,192,NTDP,USA U-18
+159,2021,Viljami Marjala,Buffalo Sabres,5,31,LW,FIN,"6' 0""",72,178,QMJHL,Quebec
+160,2021,Cameron MacDonald,Tampa Bay Lightning,5,32,C,CAN,"6' 1""",73,190,QMJHL,Saint John
+161,2021,William Von Barnekow Lofberg,Buffalo Sabres,6,1,C,SWE,"6' 2""",74,158,SWEDEN-JR.,Malmo Jr.
+162,2021,Kyle Kukkonen,Anaheim Ducks,6,2,C,USA,"5' 10""",70,172,HIGH-MN,Maple Grove
+163,2021,Semyon Vyazovoi,Seattle Kraken,6,3,G,RUS,"6' 2""",74,169,RUSSIA-JR.,Ufa 2
+164,2021,Viktor Hurtig,New Jersey Devils,6,4,D,SWE,"6' 5""",77,191,SWEDEN-JR.,Vasteras Jr.
+165,2021,Ben Boyd,Columbus Blue Jackets,6,5,LW,CAN,"6' 3""",75,195,QMJHL,Charlottetown
+166,2021,Pasquale Zito,Detroit Red Wings,6,6,LW,CAN,"6' 0""",72,175,OHL,Windsor
+167,2021,Liam Gilmartin,San Jose Sharks,6,7,LW,DEU,"6' 1""",73,192,NTDP,USA U-18
+168,2021,Jack Beck,Calgary Flames,6,8,RW,CAN,"5' 10""",70,162,OHL,Ottawa
+169,2021,Hugo Gabrielson,Vancouver Canucks,6,9,D,SWE,"6' 1""",73,172,SWEDEN-JR.,Frolunda Jr.
+170,2021,Bryce Montgomery,Carolina Hurricanes,6,10,D,USA,"6' 4""",76,215,OHL,London
+171,2021,Cal Thomas,Arizona Coyotes,6,11,D,USA,"6' 0""",72,185,HIGH-MN,Maple Grove
+172,2021,Ilya Safonov,Chicago Blackhawks,6,12,C,RUS,"6' 4""",76,205,RUSSIA,Kazan
+173,2021,Lucas Ciona,Calgary Flames,6,13,LW,CAN,"6' 3""",75,210,WHL,Seattle
+174,2021,Ethan Samson,Philadelphia Flyers,6,14,D,CAN,"6' 1""",73,180,WHL,Prince George
+175,2021,Francesco Arcuri,Dallas Stars,6,15,C,CAN,"6' 2""",74,201,OHL,Kingston
+176,2021,Dru Krebs,Washington Capitals,6,16,D,CAN,"5' 11""",71,182,WHL,Medicine Hat
+177,2021,Theo Jacobsson,San Jose Sharks,6,17,C,SWE,"5' 10""",70,167,SWEDEN-JR.,Modo Jr.
+178,2021,Connor Lockhart,Vancouver Canucks,6,18,RW,CAN,"5' 9""",69,165,OHL,Erie
+179,2021,Simon Knak,Nashville Predators,6,19,LW,CHE,"6' 1""",73,194,WHL,Portland
+180,2021,Matvey Petrov,Edmonton Oilers,6,20,LW,RUS,"6' 2""",74,178,RUSSIA-JR.,Krylja Sovetov 2
+181,2021,Ryan Mast,Boston Bruins,6,21,D,USA,"6' 4""",76,212,OHL,Sarnia
+182,2021,Nate Benoit,Minnesota Wild,6,22,D,USA,"6' 0""",72,168,HIGH-RI,Mount St. Charles
+183,2021,Chase Clark,Washington Capitals,6,23,G,USA,"6' 6""",78,202,USPHL - NCDC,Jersey Hitmen
+184,2021,Jakub Kos,Florida Panthers,6,24,LW,CZE,"6' 2""",74,174,FINLAND-JR.,Ilves Jr.
+185,2021,Vyacheslav Peksa,Toronto Maple Leafs,6,25,G,RUS,"6' 2""",74,163,RUSSIA-JR.,Irbis Kazan
+186,2021,Shane Lachance,Edmonton Oilers,6,26,LW,USA,"6' 4""",76,195,USPHL - NCDC,Junior Bruins
+187,2021,Nikita Quapp,Carolina Hurricanes,6,27,G,DEU,"6' 2""",74,187,GERMANY,Krefeld
+188,2021,Nikita Novikov,Buffalo Sabres,6,28,D,RUS,"6' 3""",75,196,RUSSIA-JR.,Dynamo Moscow 2
+189,2021,Aleksi Malinen,New York Islanders,6,29,D,FIN,"6' 0""",72,176,FINLAND,JYP
+190,2021,Artur Cholach,Vegas Golden Knights,6,30,D,UKR,"6' 4""",76,198,UKRAINE,Sokol Kiev
+191,2021,Xavier Simoneau,Montréal Canadiens,6,31,C,CAN,"5' 6""",66,172,QMJHL,Drummondville
+192,2021,Alex Gagne,Tampa Bay Lightning,6,32,D,USA,"6' 4""",76,205,USHL,Muskegon
+193,2021,Tyson Kozak,Buffalo Sabres,7,1,C,CAN,"5' 11""",71,173,WHL,Portland
+194,2021,Ryan McCleary,Pittsburgh Penguins,7,2,D,CAN,"6' 2""",74,180,WHL,Portland
+195,2021,Justin Janicke,Seattle Kraken,7,3,LW,USA,"5' 10""",70,185,NTDP,USA U-18
+196,2021,Daniil Pylenkov,Tampa Bay Lightning,7,4,D,RUS,"6' 1""",73,194,RUSSIA,Podolsk
+197,2021,Martin Rysavy,Columbus Blue Jackets,7,5,RW,CZE,"6' 3""",75,218,CZREP-2,Prerov
+198,2021,Ivan Vorobyov,St. Louis Blues,7,6,RW,RUS,"5' 11""",71,156,RUSSIA-JR.,Khanty-Mansiysk 2
+199,2021,Evgenii Kashnikov,San Jose Sharks,7,7,D,RUS,"6' 4""",76,200,QMJHL,Gatineau
+200,2021,Yegor Naumov,Carolina Hurricanes,7,8,G,RUS,"6' 3""",75,198,RUSSIA-JR.,Krylja Sovetov 2
+201,2021,Lucas Forsell,Vancouver Canucks,7,9,LW,SWE,"6' 0""",72,161,SWEDEN-JR.,Farjestad Jr.
+202,2021,Chandler Romeo,Ottawa Senators,7,10,D,CAN,"6' 5""",77,205,GOJHL,Brantford
+203,2021,Zakhar Bardakov,New Jersey Devils,7,11,C,RUS,"6' 2""",74,198,RUSSIA,Podolsk
+204,2021,Connor Kelley,Chicago Blackhawks,7,12,D,USA,"6' 1""",73,190,NCHC,Minnesota-Duluth
+205,2021,Arsenii Sergeev,Calgary Flames,7,13,G,RUS,"6' 3""",75,192,NAHL,Shreveport
+206,2021,Owen McLaughlin,Philadelphia Flyers,7,14,C,USA,"6' 0""",72,160,HIGH-RI,Mount St. Charles
+207,2021,Albert Sjoberg,Dallas Stars,7,15,RW,SWE,"6' 0""",72,183,SWEDEN-JR.,Sodertalje Jr.
+208,2021,Hank Kempf,New York Rangers,7,16,D,USA,"6' 1""",73,190,USHL,Muskegon
+209,2021,Nikita Guslistov,Carolina Hurricanes,7,17,C,RUS,"5' 10""",70,178,RUSSIA,Cherepovets
+210,2021,Braden Hache,Florida Panthers,7,18,D,USA,"6' 4""",76,200,OHL,Kingston
+211,2021,Robert Flinton,Tampa Bay Lightning,7,19,LW,USA,"6' 2""",74,210,HIGH-NH,St. Paul's School
+212,2021,Maximus Wanner,Edmonton Oilers,7,20,D,CAN,"6' 3""",75,185,WHL,Moose Jaw
+213,2021,Andre Gasseau,Boston Bruins,7,21,C,USA,"6' 3""",75,205,NTDP,USA U-18
+214,2021,Joe Vrbetic,Montréal Canadiens,7,22,G,CAN,"6' 6""",78,190,OHL,North Bay
+215,2021,Daniel Laatsch,Pittsburgh Penguins,7,23,D,USA,"6' 5""",77,182,USHL,Sioux City
+216,2021,Jalen Luypen,Chicago Blackhawks,7,24,C,CAN,"5' 10""",70,155,WHL,Edmonton
+217,2021,Ty Gallagher,Boston Bruins,7,25,D,USA,"6' 0""",72,188,NTDP,USA U-18
+218,2021,Kirill Tankov,Pittsburgh Penguins,7,26,C,RUS,"6' 1""",73,180,RUSSIA-JR.,SKA-Varyagi
+219,2021,Joel Nystrom,Carolina Hurricanes,7,27,D,SWE,"5' 11""",71,170,SWEDEN,Farjestad
+220,2021,Taylor Makar,Colorado Avalanche,7,28,LW,CAN,"6' 3""",75,190,AJHL,Brooks
+221,2021,Tomas Machu,New York Islanders,7,29,D,CZE,"6' 4""",76,189,CZREP-2,Sumperk
+222,2021,Carl Lindbom,Vegas Golden Knights,7,30,G,SWE,"6' 0""",72,165,SWEDEN-JR.,Djurgarden Jr.
+223,2021,Sam Lipkin,Arizona Coyotes,7,31,LW,USA,"6' 2""",74,192,USHL,Chicago
+224,2021,Niko Huuhtanen,Tampa Bay Lightning,7,32,RW,FIN,"6' 1""",73,204,FINLAND-JR.,Tappara Jr.

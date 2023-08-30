@@ -1,0 +1,218 @@
+rt-td,rt-td 2,team-name,rt-td 3,rt-td 4,rt-td 5,,rt-td 6,rt-td 7,,rt-td 8,, ,rt-td 8,rt-td 9,rt-td 10,rt-td 11
+1,Alexis Lafrenière,New York Rangers,1,1,LW,LW,CAN,"6' 1""","6' 1""",193,,"6' 1"" ",193,QMJHL,Rimouski,
+2,Quinton Byfield,Los Angeles Kings,1,2,C,C,CAN,"6' 4""","6' 4""",215,,"6' 4"" ",215,OHL,Sudbury,
+3,Tim Stützle,Ottawa Senators,1,3,SJS-OTT,,LW,DEU,,"6' 1""","6' 1"""," 6' 1""",,GERMANY,Mannheim,187
+4,Lucas Raymond,Detroit Red Wings,1,4,LW,LW,SWE,"5' 11""","5' 11""",170,,"5' 11"" ",170,SWEDEN,Frolunda,
+5,Jake Sanderson,Ottawa Senators,1,5,D,D,USA,"6' 1""","6' 1""",185,,"6' 1"" ",185,NTDP,USA U-18,
+6,Jamie Drysdale,Anaheim Ducks,1,6,D,D,CAN,"5' 11""","5' 11""",175,,"5' 11"" ",175,OHL,Erie,
+7,Alexander Holtz,New Jersey Devils,1,7,RW,RW,SWE,"5' 11""","5' 11""",192,,"5' 11"" ",192,SWEDEN,Djurgarden,
+8,Jack Quinn,Buffalo Sabres,1,8,RW,RW,CAN,"6' 0""","6' 0""",176,,"6' 0"" ",176,OHL,Ottawa,
+9,Marco Rossi,Minnesota Wild,1,9,C,C,AUT,"5' 9""","5' 9""",183,,"5' 9"" ",183,OHL,Ottawa,
+10,Cole Perfetti,Winnipeg Jets,1,10,C,C,CAN,"5' 10""","5' 10""",177,,"5' 10"" ",177,OHL,Saginaw,
+11,Yaroslav Askarov,Nashville Predators,1,11,G,G,RUS,"6' 3""","6' 3""",176,,"6' 3"" ",176,RUSSIA-2,Neva St. Petersburg,
+12,Anton Lundell,Florida Panthers,1,12,C,C,FIN,"6' 1""","6' 1""",185,,"6' 1"" ",185,FINLAND,HIFK,
+13,Seth Jarvis,Carolina Hurricanes,1,13,TOR-CAR,,C,CAN,,"5' 9""","5' 9"""," 5' 9""",,WHL,Portland,175
+14,Dylan Holloway,Edmonton Oilers,1,14,C,C,CAN,"6' 0""","6' 0""",203,,"6' 0"" ",203,BIG10,Wisconsin,
+15,Rodion Amirov,Toronto Maple Leafs,1,15,PIT-TOR,,LW,RUS,,"6' 0""","6' 0"""," 6' 0""",,RUSSIA,Ufa,177
+16,Kaiden Guhle,Montréal Canadiens,1,16,D,D,CAN,"6' 2""","6' 2""",186,,"6' 2"" ",186,WHL,Prince Albert,
+17,Lukas Reichel,Chicago Blackhawks,1,17,LW,LW,DEU,"6' 0""","6' 0""",170,,"6' 0"" ",170,GERMANY,Eisbaren Berlin,
+18,Dawson Mercer,New Jersey Devils,1,18,ARI-NJD,,C,CAN,,"6' 0""","6' 0"""," 6' 0""",,QMJHL,Chicoutimi,180
+19,Braden Schneider,New York Rangers,1,19,CGY-NYR,,D,CAN,,"6' 2""","6' 2"""," 6' 2""",,WHL,Brandon,202
+20,Shakir Mukhamadullin,New Jersey Devils,1,20,VAN-TBL-NJD,,D,RUS,,"6' 3""","6' 3"""," 6' 3""",,RUSSIA,Ufa,178
+21,Yegor Chinakhov,Columbus Blue Jackets,1,21,RW,RW,RUS,"6' 0""","6' 0""",178,,"6' 0"" ",178,RUSSIA-JR.,Omsk 2,
+22,Hendrix Lapierre,Washington Capitals,1,22,CAR-NYR-CGY-WSH,,C,CAN,,"5' 11""","5' 11"""," 5' 11""",,QMJHL,Chicoutimi,179
+23,Tyson Foerster,Philadelphia Flyers,1,23,RW,RW,CAN,"6' 1""","6' 1""",194,,"6' 1"" ",194,OHL,Barrie,
+24,Connor Zary,Calgary Flames,1,24,WSH-CGY,,C,CAN,,"6' 0""","6' 0"""," 6' 0""",,WHL,Kamloops,178
+25,Justin Barron,Colorado Avalanche,1,25,D,D,CAN,"6' 1""","6' 1""",195,,"6' 1"" ",195,QMJHL,Halifax,
+26,Jake Neighbours,St. Louis Blues,1,26,LW,LW,CAN,"5' 11""","5' 11""",195,,"5' 11"" ",195,WHL,Edmonton,
+27,Jacob Perreault,Anaheim Ducks,1,27,BOS-ANA,,RW,CAN,,"5' 11""","5' 11"""," 5' 11""",,OHL,Sarnia,192
+28,Ridly Greig,Ottawa Senators,1,28,NYI-OTT,,C,CAN,,"5' 11""","5' 11"""," 5' 11""",,WHL,Brandon,163
+29,Brendan Brisson,Vegas Golden Knights,1,29,C,C,USA,"5' 10""","5' 10""",179,,"5' 10"" ",179,USHL,Chicago,
+30,Mavrik Bourque,Dallas Stars,1,30,C,C,CAN,"5' 10""","5' 10""",178,,"5' 10"" ",178,QMJHL,Shawinigan,
+31,Ozzy Wiesblatt,San Jose Sharks,1,31,TBL-SJS,,C,CAN,,"5' 9""","5' 9"""," 5' 9""",,WHL,Prince Albert,183
+32,William Wallinder,Detroit Red Wings,2,1,D,D,SWE,"6' 4""","6' 4""",191,,"6' 4"" ",191,SWEDEN-JR.,Modo Jr.,
+33,Roby Jarventie,Ottawa Senators,2,2,LW,LW,FIN,"6' 2""","6' 2""",191,,"6' 2"" ",191,FINLAND-2,Koovee,
+34,JJ Peterka,Buffalo Sabres,2,3,SJS-BUF,,RW,DEU,,"5' 11""","5' 11"""," 5' 11""",,GERMANY,Munchen,192
+35,Helge Grans,Los Angeles Kings,2,4,D,D,SWE,"6' 2""","6' 2""",206,,"6' 2"" ",206,SWEDEN-JR.,Malmo Jr.,
+36,Sam Colangelo,Anaheim Ducks,2,5,RW,RW,USA,"6' 1""","6' 1""",205,,"6' 1"" ",205,USHL,Chicago,
+37,Marat Khusnutdinov,Minnesota Wild,2,6,NJD-NSH-MIN,,C,RUS,,"5' 11""","5' 11"""," 5' 11""",,RUSSIA-JR.,SKA St. Petersburg 2,176
+38,Thomas Bordeleau,San Jose Sharks,2,7,BUF-SJS,,C,USA,,"5' 9""","5' 9"""," 5' 9""",,NTDP,USA U-18,175
+39,Ryan O'Rourke,Minnesota Wild,2,8,D,D,CAN,"6' 0""","6' 0""",178,,"6' 0"" ",178,OHL,Sault Ste. Marie,
+40,Daniel Torgersson,Winnipeg Jets,2,9,LW,LW,SWE,"6' 2""","6' 2""",199,,"6' 2"" ",199,SWEDEN-JR.,Frolunda Jr.,
+41,Noel Gunler,Carolina Hurricanes,2,10,NYR-CAR,,RW,SWE,,"6' 2""","6' 2"""," 6' 2""",,SWEDEN,Lulea,176
+42,Luke Evangelista,Nashville Predators,2,11,RW,RW,CAN,"5' 11""","5' 11""",166,,"5' 11"" ",166,OHL,London,
+43,Emil Heineman,Florida Panthers,2,12,LW,LW,SWE,"6' 1""","6' 1""",185,,"6' 1"" ",185,SWEDEN-JR.,Leksand Jr.,
+44,Tyler Kleven,Ottawa Senators,2,13,TOR-OTT,,D,USA,,"6' 4""","6' 4"""," 6' 4""",,NTDP,USA U-18,200
+45,Brock Faber,Los Angeles Kings,2,14,EDM-DET-LAK,,D,USA,,"6' 0""","6' 0"""," 6' 0""",,NTDP,USA U-18,190
+46,Drew Commesso,Chicago Blackhawks,2,15,PIT-VGK-CHI,,G,USA,,"6' 2""","6' 2"""," 6' 2""",,NTDP,USA U-18,180
+47,Luke Tuch,Montréal Canadiens,2,16,LW,LW,USA,"6' 2""","6' 2""",203,,"6' 2"" ",203,NTDP,USA U-18,
+48,Jan Mysak,Montréal Canadiens,2,17,CHI-MTL,,C,CZE,,"5' 10""","5' 10"""," 5' 10""",,OHL,Hamilton,175
+49,Void,Arizona Coyotes,2,18,N/A,N/A,N/A,,,,, ,0,N/A,,
+50,Yan Kuznetsov,Calgary Flames,2,19,D,D,RUS,"6' 4""","6' 4""",209,,"6' 4"" ",209,H-EAST,UConn,
+51,Theodor Niederbach,Detroit Red Wings,2,20,VAN-LAK-DET,,C,SWE,,"5' 11""","5' 11"""," 5' 11""",,SWEDEN-JR.,Frolunda Jr.,172
+52,Joel Blomqvist,Pittsburgh Penguins,2,21,CBJ-OTT-PIT,,G,FIN,,"6' 1""","6' 1"""," 6' 1""",,FINLAND-JR.,Karpat Jr.,183
+53,Vasily Ponomarev,Carolina Hurricanes,2,22,C,C,RUS,"5' 10""","5' 10""",180,,"5' 10"" ",180,QMJHL,Shawinigan,
+54,Emil Andrae,Philadelphia Flyers,2,23,D,D,SWE,"5' 8""","5' 8""",181,,"5' 8"" ",181,SWEDEN-JR.,HV 71 Jr.,
+55,Cross Hanas,Detroit Red Wings,2,24,WSH-DET,,LW,USA,,"6' 0""","6' 0"""," 6' 0""",,WHL,Portland,167
+56,Tristen Robins,San Jose Sharks,2,25,COL-WSH-SJS,,C,GBR,,"5' 10""","5' 10"""," 5' 10""",,WHL,Saskatoon,176
+57,Jack Finley,Tampa Bay Lightning,2,26,STL-MTL-TBL,,C,USA,,"6' 5""","6' 5"""," 6' 5""",,WHL,Spokane,213
+58,Mason Lohrei,Boston Bruins,2,27,D,D,USA,"6' 3""","6' 3""",195,,"6' 3"" ",195,USHL,Green Bay,
+59,Roni Hirvonen,Toronto Maple Leafs,2,28,NYI-OTT-TOR,,C,FIN,,"5' 9""","5' 9"""," 5' 9""",,FINLAND,Assat,170
+60,Will Cuylle,New York Rangers,2,29,VGK-LAK-NYR,,LW,CAN,,"6' 2""","6' 2"""," 6' 2""",,OHL,Windsor,204
+61,Egor Sokolov,Ottawa Senators,2,30,DAL-VGK-OTT,,LW,RUS,,"6' 4""","6' 4"""," 6' 4""",,QMJHL,Cape Breton,235
+62,Gage Goncalves,Tampa Bay Lightning,2,31,C,C,CAN,"6' 0""","6' 0""",165,,"6' 0"" ",165,WHL,Everett,
+63,Donovan Sebrango,Detroit Red Wings,3,1,D,D,CAN,"6' 1""","6' 1""",189,,"6' 1"" ",189,OHL,Kitchener,
+64,Topi Niemela,Toronto Maple Leafs,3,2,OTT-TOR,,D,FIN,,"5' 11""","5' 11"""," 5' 11""",,FINLAND,Karpat,162
+65,Daemon Hunt,Minnesota Wild,3,3,SJS-DET-MIN,,D,CAN,,"6' 0""","6' 0"""," 6' 0""",,WHL,Moose Jaw,198
+66,Kasper Simontaival,Los Angeles Kings,3,4,RW,RW,FIN,"5' 7""","5' 7""",179,,"5' 7"" ",179,FINLAND-JR.,Tappara Jr.,
+67,Ian Moore,Anaheim Ducks,3,5,D,D,USA,"6' 2""","6' 2""",171,,"6' 2"" ",171,HIGH-MA,St. Mark's School,
+68,Lukas Cormier,Vegas Golden Knights,3,6,NJD-VGK,,D,CAN,,"5' 9""","5' 9"""," 5' 9""",,QMJHL,Charlottetown,180
+69,Alexander Nikishin,Carolina Hurricanes,3,7,BUF-CAR,,D,RUS,,"6' 3""","6' 3"""," 6' 3""",,RUSSIA,Spartak,196
+70,Eemil Viro,Detroit Red Wings,3,8,MIN-NSH-MIN-DET,,D,FIN,,"6' 0""","6' 0"""," 6' 0""",,FINLAND,TPS,168
+71,Leevi Merilainen,Ottawa Senators,3,9,WPG-OTT,,G,FIN,,"6' 2""","6' 2"""," 6' 2""",,FINLAND-JR.,Karpat Jr.,158
+72,Jeremie Poirier,Calgary Flames,3,10,NYR-CGY,,D,CAN,,"6' 0""","6' 0"""," 6' 0""",,QMJHL,Saint John,196
+73,Luke Prokop,Nashville Predators,3,11,D,D,CAN,"6' 4""","6' 4""",217,,"6' 4"" ",217,WHL,Calgary,
+74,Ty Smilanic,Florida Panthers,3,12,C,C,USA,"6' 1""","6' 1""",175,,"6' 1"" ",175,NTDP,USA U-18,
+75,Jean-Luc Foudy,Colorado Avalanche,3,13,TOR-COL,,C,CAN,,"5' 11""","5' 11"""," 5' 11""",,OHL,Windsor,177
+76,Danil Gushchin,San Jose Sharks,3,14,EDM-SJS,,LW,RUS,,"5' 8""","5' 8"""," 5' 8""",,USHL,Muskegon,165
+77,Calle Clang,Pittsburgh Penguins,3,15,G,G,SWE,"6' 2""","6' 2""",194,,"6' 2"" ",194,SWEDEN-JR.,Rogle Jr.,
+78,Samuel Knazko,Columbus Blue Jackets,3,16,MTL-CBJ,,D,SVK,,"6' 0""","6' 0"""," 6' 0""",,FINLAND-JR.,TPS Jr.,191
+79,Landon Slaggert,Chicago Blackhawks,3,17,LW,LW,USA,"5' 11""","5' 11""",180,,"5' 11"" ",180,NTDP,USA U-18,
+80,Jake Boltmann,Calgary Flames,3,18,ARI-COL-WSH-CGY,,D,USA,,"6' 0""","6' 0"""," 6' 0""",,HIGH-MN,Edina,188
+81,Wyatt Kaiser,Chicago Blackhawks,3,19,CGY-CHI,,D,USA,,"5' 11""","5' 11"""," 5' 11""",,HIGH-MN,Andover,173
+82,Joni Jurmo,Vancouver Canucks,3,20,D,D,FIN,"6' 4""","6' 4""",192,,"6' 4"" ",192,FINLAND-JR.,Jokerit Jr.,
+83,Alex Laferriere,Los Angeles Kings,3,21,CBJ-OTT-TOR-LAK,,RW,USA,,"5' 11""","5' 11"""," 5' 11""",,USHL,Des Moines,173
+84,Nico Daws,New Jersey Devils,3,22,CAR-NJD,,G,DEU,,"6' 3""","6' 3"""," 6' 3""",,OHL,Guelph,199
+85,Maxim Groshev,Tampa Bay Lightning,3,23,PHI-SJS-TBL,,RW,RUS,,"6' 2""","6' 2"""," 6' 2""",,RUSSIA,Nizhnekamsk,194
+86,Dylan Peterson,St. Louis Blues,3,24,WSH-MTL-STL,,C,USA,,"6' 4""","6' 4"""," 6' 4""",,NTDP,USA U-18,192
+87,Justin Sourdif,Florida Panthers,3,25,COL-FLA,,RW,CAN,,"5' 10""","5' 10"""," 5' 10""",,WHL,Vancouver,173
+88,Leo Loof,St. Louis Blues,3,26,D,D,SWE,"6' 1""","6' 1""",176,,"6' 1"" ",176,SWEDEN-JR.,Farjestad Jr.,
+89,Trevor Kuntar,Boston Bruins,3,27,C,C,USA,"5' 11""","5' 11""",197,,"5' 11"" ",197,USHL,Youngstown,
+90,Alexander Ljungkrantz,New York Islanders,3,28,RW,RW,SWE,"6' 0""","6' 0""",179,,"6' 0"" ",179,SWEDEN-JR.,Brynas Jr.,
+91,Jackson Hallum,Vegas Golden Knights,3,29,LW,LW,USA,"5' 11""","5' 11""",163,,"5' 11"" ",163,HIGH-MN,St. Thomas,
+92,Oliver Tarnstrom,New York Rangers,3,30,DAL-NYR,,C,SWE,,"6' 0""","6' 0"""," 6' 0""",,SWEDEN-JR.,AIK Jr.,158
+93,Jack Thompson,Tampa Bay Lightning,3,31,D,D,CAN,"6' 0""","6' 0""",178,,"6' 0"" ",178,OHL,Sudbury,
+94,Zayde Wisdom,Philadelphia Flyers,4,1,DET-TBL-PHI,,RW,CAN,,"5' 10""","5' 10"""," 5' 10""",,OHL,Kingston,195
+95,Mike Benning,Florida Panthers,4,2,OTT-FLA,,D,CAN,,"5' 8""","5' 8"""," 5' 8""",,AJHL,Sherwood Park,177
+96,Daniil Chechelev,Calgary Flames,4,3,SJS-MTL-BUF-CGY,,G,RUS,,"6' 3""","6' 3"""," 6' 3""",,RUSSIA-JR.,Chekhov 2,187
+97,Sam Stange,Detroit Red Wings,4,4,LAK-DET,,RW,USA,,"6' 0""","6' 0"""," 6' 0""",,USHL,Sioux Falls,200
+98,Brandon Coe,San Jose Sharks,4,5,ANA-MTL-SJS,,RW,CAN,,"6' 4""","6' 4"""," 6' 4""",,OHL,North Bay,188
+99,Jaromir Pytlik,New Jersey Devils,4,6,C,C,CZE,"6' 2""","6' 2""",200,,"6' 2"" ",200,OHL,Sault Ste. Marie,
+100,Carter Savoie,Edmonton Oilers,4,7,BUF-SJS-EDM,,LW,CAN,,"5' 9""","5' 9"""," 5' 9""",,AJHL,Sherwood Park,192
+101,Adam Wilsby,Nashville Predators,4,8,MIN-NSH,,D,SWE,,"6' 0""","6' 0"""," 6' 0""",,SWEDEN-2,Sodertalje,183
+102,Jack Smith,Montréal Canadiens,4,9,WPG-MTL,,C,USA,,"5' 11""","5' 11"""," 5' 11""",,HIGH-MN,St. Cloud Cathedral,182
+103,Dylan Garand,New York Rangers,4,10,G,G,CAN,"6' 0""","6' 0""",173,,"6' 0"" ",173,WHL,Kamloops,
+104,Thimo Nickl,Anaheim Ducks,4,11,NSH-PHI-ANA,,D,AUT,,"6' 2""","6' 2"""," 6' 2""",,QMJHL,Drummondville,176
+105,Zachary Uens,Florida Panthers,4,12,D,D,CAN,"6' 1""","6' 1""",180,,"6' 1"" ",180,H-EAST,Merrimack,
+106,Artur Akhtyamov,Toronto Maple Leafs,4,13,G,G,RUS,"6' 1""","6' 1""",167,,"6' 1"" ",167,RUSSIA-JR.,Irbis Kazan,
+107,Jan Bednar,Detroit Red Wings,4,14,EDM-DET,,G,CZE,,"6' 4""","6' 4"""," 6' 4""",,CZREP-2,Sokolov,196
+108,Lukas Svejkovsky,Pittsburgh Penguins,4,15,C,C,USA,"5' 10""","5' 10""",165,,"5' 10"" ",165,WHL,Medicine Hat,
+109,Blake Biondi,Montréal Canadiens,4,16,C,C,USA,"6' 0""","6' 0""",191,,"6' 0"" ",191,HIGH-MN,Hermantown,
+110,Michael Krutil,Chicago Blackhawks,4,17,D,D,CZE,"6' 3""","6' 3""",202,,"6' 3"" ",202,CZREP-JR.,Sparta Jr.,
+111,Mitchell Miller,Arizona Coyotes,4,18,D,D,USA,"5' 10""","5' 10""",180,,"5' 10"" ",180,USHL,Tri-City,
+112,Juho Markkanen,Los Angeles Kings,4,19,CGY-LAK,,G,CAN,,"6' 2""","6' 2"""," 6' 2""",,FINLAND-JR.,Saipa Jr.,146
+113,Jackson Kunz,Vancouver Canucks,4,20,LW,LW,USA,"6' 3""","6' 3""",210,,"6' 3"" ",210,HIGH-MN,Shattuck-St. Mary's,
+114,Mikael Pyyhtia,Columbus Blue Jackets,4,21,LW,LW,FIN,"5' 11""","5' 11""",154,,"5' 11"" ",154,FINLAND-JR.,TPS Jr.,
+115,Zion Nybeck,Carolina Hurricanes,4,22,LW,LW,SWE,"5' 6""","5' 6""",182,,"5' 6"" ",182,SWEDEN-JR.,HV 71 Jr.,
+116,Eamon Powell,Tampa Bay Lightning,4,23,PHI-TBL,,D,USA,,"5' 11""","5' 11"""," 5' 11""",,NTDP,USA U-18,165
+117,Bogdan Trineyev,Washington Capitals,4,24,RW,RW,RUS,"6' 3""","6' 3""",198,,"6' 3"" ",198,RUSSIA-JR.,Dynamo Moscow 2,
+118,Colby Ambrosio,Colorado Avalanche,4,25,C,C,CAN,"5' 8""","5' 8""",170,,"5' 8"" ",170,USHL,Tri-City,
+119,Tanner Dickinson,St. Louis Blues,4,26,C,C,USA,"5' 11""","5' 11""",150,,"5' 11"" ",150,OHL,Sault Ste. Marie,
+120,Ethan Edwards,New Jersey Devils,4,27,BOS-NJD,,D,CAN,,"5' 9""","5' 9"""," 5' 9""",,AJHL,Spruce Grove,166
+121,Alex Jefferies,New York Islanders,4,28,LW,LW,USA,"5' 11""","5' 11""",195,,"5' 11"" ",195,HIGH-CT,The Gunnery,
+122,William Villeneuve,Toronto Maple Leafs,4,29,VGK-TOR,,D,CAN,,"6' 1""","6' 1"""," 6' 1""",,QMJHL,Saint John,175
+123,Antonio Stranges,Dallas Stars,4,30,LW,LW,USA,"5' 10""","5' 10""",168,,"5' 10"" ",168,OHL,London,
+124,Sean Farrell,Montréal Canadiens,4,31,TBL-MTL,,C,USA,,"5' 8""","5' 8"""," 5' 8""",,USHL,Chicago,175
+125,Jesper Vikman,Vegas Golden Knights,5,1,DET-VGK,,G,SWE,,"6' 3""","6' 3"""," 6' 3""",,SWEDEN-JR.,AIK Jr.,179
+126,Tyler Tullio,Edmonton Oilers,5,2,OTT-SJS-EDM,,RW,USA,,"5' 10""","5' 10"""," 5' 10""",,OHL,Oshawa,165
+127,Evan Vierling,New York Rangers,5,3,SJS-NYR,,C,CAN,,"6' 0""","6' 0"""," 6' 0""",,OHL,Barrie,167
+128,Martin Chromiak,Los Angeles Kings,5,4,RW,RW,SVK,"5' 11""","5' 11""",187,,"5' 11"" ",187,OHL,Kingston,
+129,Artyom Galimov,Anaheim Ducks,5,5,LW,LW,RUS,"6' 0""","6' 0""",176,,"6' 0"" ",176,RUSSIA,Kazan,
+130,Artem Shlaine,New Jersey Devils,5,6,C,C,RUS,"6' 1""","6' 1""",165,,"6' 1"" ",165,HIGH-MN,Shattuck-St. Mary's,
+131,Matteo Costantini,Buffalo Sabres,5,7,C,C,CAN,"5' 11""","5' 11""",173,,"5' 11"" ",173,OJHL,Buffalo Jr. Sabres,
+132,Alex Cotton,Detroit Red Wings,5,8,MIN-DET,,D,CAN,,"6' 1""","6' 1"""," 6' 1""",,WHL,Lethbridge,175
+133,Anton Johannesson,Winnipeg Jets,5,9,D,D,SWE,"5' 9""","5' 9""",144,,"5' 9"" ",144,SWEDEN-JR.,HV 71 Jr.,
+134,Brett Berard,New York Rangers,5,10,LW,LW,USA,"5' 9""","5' 9""",155,,"5' 9"" ",155,NTDP,USA U-18,
+135,Elliot Desnoyers,Philadelphia Flyers,5,11,NSH-PHI,,LW,CAN,,"5' 10""","5' 10"""," 5' 10""",,QMJHL,Moncton,183
+136,Jakub Dobes,Montréal Canadiens,5,12,FLA-MTL,,G,CZE,,"6' 3""","6' 3"""," 6' 3""",,USHL,Omaha,200
+137,Dmitry Ovchinnikov,Toronto Maple Leafs,5,13,TOR-FLA-TOR,,C,RUS,,"5' 11""","5' 11"""," 5' 11""",,RUSSIA-JR.,Novosibirsk 2,161
+138,Maksim Berezkin,Edmonton Oilers,5,14,LW,LW,RUS,"6' 2""","6' 2""",201,,"6' 2"" ",201,RUSSIA-JR.,Yaroslavl 2,
+139,Ryder Rolston,Colorado Avalanche,5,15,PIT-COL,,RW,USA,,"6' 0""","6' 0"""," 6' 0""",,USHL,Waterloo,175
+140,Ben Meehan,Los Angeles Kings,5,16,MTL-CAR-LAK,,D,USA,,"6' 0""","6' 0"""," 6' 0""",,USHL,Cedar Rapids,178
+141,Isaak Phillips,Chicago Blackhawks,5,17,D,D,CAN,"6' 2""","6' 2""",193,,"6' 2"" ",193,OHL,Sudbury,
+142,Carson Bantle,Arizona Coyotes,5,18,LW,LW,USA,"6' 4""","6' 4""",194,,"6' 4"" ",194,USHL,Madison,
+143,Ryan Francis,Calgary Flames,5,19,RW,RW,CAN,"5' 9""","5' 9""",170,,"5' 9"" ",170,QMJHL,Cape Breton,
+144,Jacob Truscott,Vancouver Canucks,5,20,D,D,USA,"6' 0""","6' 0""",170,,"6' 0"" ",170,NTDP,USA U-18,
+145,Ole Julian Bjorgvik-Holm,Columbus Blue Jackets,5,21,D,D,NOR,"6' 2""","6' 2""",190,,"6' 2"" ",190,OHL,Mississauga,
+146,Pavel Novak,Minnesota Wild,5,22,CAR-STL-MIN,,RW,CZE,,"5' 9""","5' 9"""," 5' 9""",,WHL,Kelowna,170
+147,Jaydon Dureau,Tampa Bay Lightning,5,23,PHI-TBL,,LW,CAN,,"5' 11""","5' 11"""," 5' 11""",,WHL,Portland,173
+148,Bear Hughes,Washington Capitals,5,24,C,C,USA,"6' 0""","6' 0""",171,,"6' 0"" ",171,WHL,Spokane,
+149,Raivis Ansons,Pittsburgh Penguins,5,25,COL-PIT,,RW,LVA,,"6' 0""","6' 0"""," 6' 0""",,QMJHL,Baie Comeau,191
+150,Matthew Kessel,St. Louis Blues,5,26,D,D,USA,"6' 2""","6' 2""",205,,"6' 2"" ",205,H-EAST,U. Mass.,
+151,Mason Langenbrunner,Boston Bruins,5,27,D,D,USA,"6' 2""","6' 2""",166,,"6' 2"" ",166,HIGH-MN,Eden Prarie,
+152,William Dufour,New York Islanders,5,28,RW,RW,CAN,"6' 2""","6' 2""",195,,"6' 2"" ",195,QMJHL,Drummondville,
+153,Kasper Puutio,Florida Panthers,5,29,VGK-TOR-FLA,,D,FIN,,"5' 11""","5' 11"""," 5' 11""",,WHL,Everett,180
+154,Daniel Ljungman,Dallas Stars,5,30,C,C,SWE,"6' 0""","6' 0""",166,,"6' 0"" ",166,SWEDEN-JR.,Linkoping Jr.,
+155,Eric Engstrand,Ottawa Senators,5,31,TBL-OTT,,LW,SWE,,"6' 4""","6' 4"""," 6' 4""",,SWEDEN-JR.,Malmo Jr.,209
+156,Kyle Aucoin,Detroit Red Wings,6,1,D,D,CAN,"5' 10""","5' 10""",164,,"5' 10"" ",164,USHL,Tri-City,
+157,Nick Capone,Tampa Bay Lightning,6,2,OTT-TBL,,RW,USA,,"6' 1""","6' 1"""," 6' 1""",,USHL,Tri-City,202
+158,Philippe Daoust,Ottawa Senators,6,3,SJS-OTT,,C,CAN,,"5' 11""","5' 11"""," 5' 11""",,QMJHL,Moncton,151
+159,Lucas Mercuri,Carolina Hurricanes,6,4,LAK-CAR,,C,CAN,,"6' 3""","6' 3"""," 6' 3""",,HIGH-CT,Salisbury,191
+160,Albin Sundsvik,Anaheim Ducks,6,5,C,C,SWE,"6' 2""","6' 2""",187,,"6' 2"" ",187,SWEDEN,Skelleftea,
+161,Benjamin Baumgartner,New Jersey Devils,6,6,C,C,AUT,"5' 9""","5' 9""",165,,"5' 9"" ",165,SWISS,Davos,
+162,Yauheni Aksiantsiuk,Dallas Stars,6,7,BUF-CAR-FLA-DAL,,LW,BLR,,"5' 7""","5' 7"""," 5' 7""",,OHL,Flint,163
+163,Will Cranley,St. Louis Blues,6,8,MIN-STL,,G,CAN,,"6' 3""","6' 3"""," 6' 3""",,OHL,Ottawa,183
+164,Tyrel Bauer,Winnipeg Jets,6,9,D,D,CAN,"6' 3""","6' 3""",206,,"6' 3"" ",206,WHL,Seattle,
+165,Matt Rempe,New York Rangers,6,10,C,C,CAN,"6' 7""","6' 7""",207,,"6' 7"" ",207,WHL,Seattle,
+166,Luke Reid,Nashville Predators,6,11,D,D,CAN,"5' 11""","5' 11""",190,,"5' 11"" ",190,USHL,Chicago,
+167,Nils Aman,Colorado Avalanche,6,12,FLA-COL,,C,SWE,,"6' 2""","6' 2"""," 6' 2""",,SWEDEN-JR.,Leksand Jr.,179
+168,Veeti Miettinen,Toronto Maple Leafs,6,13,RW,RW,FIN,"5' 9""","5' 9""",161,,"5' 9"" ",161,FINLAND-JR.,K-Espoo Jr.,
+169,Filip Engaras,Edmonton Oilers,6,14,C,C,SWE,"6' 0""","6' 0""",187,,"6' 0"" ",187,H-EAST,New Hampshire,
+170,Chase Yoder,Pittsburgh Penguins,6,15,C,C,USA,"5' 10""","5' 10""",176,,"5' 10"" ",176,NTDP,USA U-18,
+171,Alexander Gordin,Montréal Canadiens,6,16,RW,RW,RUS,"6' 1""","6' 1""",194,,"6' 1"" ",194,RUSSIA-JR.,SKA St. Petersburg 2,
+172,Chad Yetman,Chicago Blackhawks,6,17,C,C,CAN,"5' 11""","5' 11""",178,,"5' 11"" ",178,OHL,Erie,
+173,Filip Barklund,Arizona Coyotes,6,18,C,C,SWE,"5' 11""","5' 11""",159,,"5' 11"" ",159,SWEDEN-JR.,Orebro Jr.,
+174,Rory Kerins,Calgary Flames,6,19,C,C,CAN,"5' 10""","5' 10""",175,,"5' 10"" ",175,OHL,Sault Ste. Marie,
+175,Dmitry Zlodeyev,Vancouver Canucks,6,20,C,C,RUS,"5' 11""","5' 11""",185,,"5' 11"" ",185,RUSSIA-JR.,Dynamo Moscow 2,
+176,Samuel Johannesson,Columbus Blue Jackets,6,21,D,D,SWE,"5' 11""","5' 11""",176,,"5' 11"" ",176,SWEDEN,Rogle,
+177,Axel Rindell,Toronto Maple Leafs,6,22,CAR-TOR,,D,FIN,,"5' 11""","5' 11"""," 5' 11""",,FINLAND,Jukurit,176
+178,Connor McClennon,Philadelphia Flyers,6,23,RW,RW,CAN,"5' 7""","5' 7""",163,,"5' 7"" ",163,WHL,Winnipeg,
+179,Garin Bjorklund,Washington Capitals,6,24,G,G,CAN,"6' 1""","6' 1""",173,,"6' 1"" ",173,WHL,Medicine Hat,
+180,Joe Miller,Toronto Maple Leafs,6,25,COL-TOR,,C,USA,,"5' 8""","5' 8"""," 5' 8""",,HIGH-MN,Blake,147
+181,Cole Reinhardt,Ottawa Senators,6,26,STL-EDM-OTT,,LW,CAN,,"6' 1""","6' 1"""," 6' 1""",,WHL,Brandon,200
+182,Riley Duran,Boston Bruins,6,27,C,C,USA,"6' 1""","6' 1""",174,,"6' 1"" ",174,HIGH-MA,Lawrence Academy,
+183,Matias Rajaniemi,New York Islanders,6,28,D,D,FIN,"6' 4""","6' 4""",201,,"6' 4"" ",201,FINLAND-JR.,Pelicans Jr.,
+184,Noah Ellis,Vegas Golden Knights,6,29,D,D,USA,"6' 1""","6' 1""",191,,"6' 1"" ",191,USHL,Des Moines,
+185,Remi Poirier,Dallas Stars,6,30,G,G,CAN,"6' 2""","6' 2""",217,,"6' 2"" ",217,QMJHL,Gatineau,
+186,Amir Miftakhov,Tampa Bay Lightning,6,31,G,G,RUS,"6' 0""","6' 0""",172,,"6' 0"" ",172,RUSSIA-2,Bars Kazan,
+187,Kienan Draper,Detroit Red Wings,7,1,RW,RW,USA,"6' 0""","6' 0""",187,,"6' 0"" ",187,HIGH-ON,St. Andrew's College,
+188,Louis Crevier,Chicago Blackhawks,7,2,OTT-MTL-CHI,,D,CAN,,"6' 7""","6' 7"""," 6' 7""",,QMJHL,Chicoutimi,209
+189,John Fusco,Toronto Maple Leafs,7,3,SJS-TOR,,D,USA,,"5' 9""","5' 9"""," 5' 9""",,HIGH-MA,Dexter School,174
+190,Aatu Jamsen,Los Angeles Kings,7,4,RW,RW,FIN,"6' 1""","6' 1""",154,,"6' 1"" ",154,FINLAND-JR.,Pelicans Jr.,
+191,Viktor Persson,Vancouver Canucks,7,5,ANA-VAN,,D,SWE,,"6' 2""","6' 2"""," 6' 2""",,SWEDEN-JR.,Brynas Jr.,192
+192,Elliot Ekefjard,Arizona Coyotes,7,6,NJD-ARI,,RW,SWE,,"6' 4""","6' 4"""," 6' 4""",,N/A,IF BJO,216
+193,Albert Lyckasen,Buffalo Sabres,7,7,D,D,SWE,"5' 11""","5' 11""",187,,"5' 11"" ",187,SWEDEN-JR.,Linkoping Jr.,
+194,Noah Beck,St. Louis Blues,7,8,MIN-STL,,D,CAN,,"6' 3""","6' 3"""," 6' 3""",,USHL,Fargo,184
+195,Wyatt Schingoethe,Toronto Maple Leafs,7,9,WPG-MIN-TOR,,C,USA,,"5' 10""","5' 10"""," 5' 10""",,USHL,Waterloo,200
+196,Alex Young,San Jose Sharks,7,10,NYR-SJS,,C,CAN,,"5' 10""","5' 10"""," 5' 10""",,AJHL,Canmore,170
+197,Hugo Ollas,New York Rangers,7,11,NSH-NYR,,G,SWE,,"6' 7""","6' 7"""," 6' 7""",,SWEDEN-JR.,Linkoping Jr.,220
+198,Elliot Ekmark,Florida Panthers,7,12,C,C,SWE,"5' 9""","5' 9""",162,,"5' 9"" ",162,SWEDEN-JR.,Linkoping Jr.,
+199,Alexander Pashin,Carolina Hurricanes,7,13,TOR-CAR,,RW,RUS,,"5' 8""","5' 8"""," 5' 8""",,RUSSIA-JR.,Ufa 2,154
+200,Jeremias Lindewall,Edmonton Oilers,7,14,RW,RW,SWE,"6' 2""","6' 2""",183,,"6' 2"" ",183,SWEDEN-JR.,Modo Jr.,
+201,Adam Raska,San Jose Sharks,7,15,PIT-SJS,,RW,CZE,,"5' 10""","5' 10"""," 5' 10""",,QMJHL,Rimouski,178
+202,Gunnarwolfe Fontaine,Nashville Predators,7,16,MTL-PHI-NSH,,LW,USA,,"5' 8""","5' 8"""," 5' 8""",,USHL,Chicago,172
+203,Chase Bradley,Detroit Red Wings,7,17,CHI-MTL-STL-DET,,LW,USA,,"5' 11""","5' 11"""," 5' 11""",,USHL,Omaha,180
+204,Ben McCartney,Arizona Coyotes,7,18,LW,LW,CAN,"5' 11""","5' 11""",182,,"5' 11"" ",182,WHL,Brandon,
+205,Ilya Solovyov,Calgary Flames,7,19,D,D,BLR,"6' 2""","6' 2""",208,,"6' 2"" ",208,OHL,Saginaw,
+206,Linus Oberg,San Jose Sharks,7,20,VAN-NYR-SJS,,C,SWE,,"6' 0""","6' 0"""," 6' 0""",,SWEDEN,Orebro,202
+207,Ethan Bowen,Anaheim Ducks,7,21,CBJ-ANA,,C,CAN,,"6' 1""","6' 1"""," 6' 1""",,BCHL,Chilliwack,154
+208,Ronan Seeley,Carolina Hurricanes,7,22,D,D,CAN,"5' 11""","5' 11""",176,,"5' 11"" ",176,WHL,Everett,
+209,Chase McLane,Nashville Predators,7,23,PHI-NSH,,C,USA,,"6' 1""","6' 1"""," 6' 1""",,USHL,Tri-City,175
+210,Timofey Spitserov,San Jose Sharks,7,24,WSH-SJS,,RW,RUS,,"5' 11""","5' 11"""," 5' 11""",,HIGH-IN,Culver Academy,174
+211,Oskar Magnusson,Washington Capitals,7,25,COL-PIT-WSH,,LW,SWE,,"5' 9""","5' 9"""," 5' 9""",,SWEDEN-JR.,Malmo Jr.,166
+212,Devon Levi,Florida Panthers,7,26,STL-TOR-FLA,,G,CAN,,"6' 0""","6' 0"""," 6' 0""",,CCHL,Carleton Place,184
+213,Ryan Tverberg,Toronto Maple Leafs,7,27,BOS-TOR,,C,CAN,,"5' 9""","5' 9"""," 5' 9""",,OJHL,Toronto JC,168
+214,Henrik Tikkanen,New York Islanders,7,28,G,G,FIN,"6' 6""","6' 6""",200,,"6' 6"" ",200,FINLAND-JR.,HIFK Jr.,
+215,Maxim Marushev,Vegas Golden Knights,7,29,C,C,RUS,"6' 1""","6' 1""",176,,"6' 1"" ",176,RUSSIA-2,Bars Kazan,
+216,Jakub Konecny,Buffalo Sabres,7,30,DAL-BUF,,C,CZE,,"5' 10""","5' 10"""," 5' 10""",,CZREP-JR.,Sparta Jr.,150
+217,Declan McDonnell,Tampa Bay Lightning,7,31,RW,RW,USA,"5' 9""","5' 9""",174,,"5' 9"" ",174,OHL,Kitchener,
