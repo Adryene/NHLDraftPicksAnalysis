@@ -3,6 +3,7 @@
 ## NHL Draft Picks Analysis for 2018 - 2023 [Source](https://records.nhl.com/draft/draft-picks?year=2023) 
 
 This project digs deeper into NHL Draft Picks data from 2018 to 2023 using Python, Pandas and JupyterLab. 
+
 This analysis uses a dataset 21x larger than my previous NHL Draft First Pick project and incorporates descriptive statistics, correlations, and counts to explore trends.
 
 Every part of this project is customizable and allows you to do the following:
